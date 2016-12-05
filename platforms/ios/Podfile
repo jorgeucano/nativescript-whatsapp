@@ -1,0 +1,8 @@
+use_frameworks!
+
+target "MiWhatIt" do
+# Begin Podfile - /Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/node_modules/nativescript-fancyalert/platforms/ios/Podfile 
+ pod 'SCLAlertView-Objective-C' 
+ # End Podfile 
+
+end

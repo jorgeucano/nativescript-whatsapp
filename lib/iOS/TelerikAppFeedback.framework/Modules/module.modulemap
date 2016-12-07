@@ -1,0 +1,6 @@
+framework module TelerikAppFeedback {
+  umbrella header "TelerikAppFeedback.h"
+
+  export *
+  module * { export * }
+}

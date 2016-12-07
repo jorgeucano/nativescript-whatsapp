@@ -17,51 +17,34 @@ export class ChatListadoComponent{
     mockChat:Array<any> = [];
 
     constructor(private routerExt: RouterExtensions, private ngZone: NgZone ){
+        
         firebase.addChildEventListener((result:any)=>{
             this.ngZone.run(() => {
                 this.onQueryEvent(result);
             });
         }, "/chats");
 
+    }
 
-       /* firebase.push(
+
+    newChat(){
+        firebase.push(
             '/chats',
             {
-                "id": 1, 
-                "nombre": "Grupo de chat de nativeScript",
+                "id": 3, 
+                "nombre": "nuevo grupo con boton",
                 "usuarios": {
                     "usuario_1": "jorgeucano",
-                    "usuario_2": "jorgeucano2",
-                    "usuario_3": "jorgeucano3"
+                    "usuario_2": "jorgeucano2"
                 },
                 "creacion": "12/12/2016",
-                "dialogo": [
-                    {
-                        "date": "12/12/2016",
-                        "texto": "Hola alguien vio la clase?",
-                        "usuario": "jorgeucano",
-                        "recibio": {
-                            "usuario_1": "jorgeucano2",
-                            "usuario_2": "jorgeucano3"
-                        }
-                    },
-                    {
-                        "date": "12/12/2016",
-                        "texto": "si yo estuvo genial",
-                        "usuario": "jorgeucano2",
-                        "recibio": {
-                            "usuario_1": "jorgeucano",
-                            "usuario_2": "jorgeucano3"
-                        }
-                    }
-                ]
+                "dialogo": []
             }
         ).then(
             function (result) {
                 console.log("created key: " + result.key);
             }
-        );*/
-
+        );
     }
 
 

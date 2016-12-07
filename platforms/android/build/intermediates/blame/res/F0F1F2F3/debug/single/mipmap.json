@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/mipmap/ic_info.png",
+        "source": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.github.andyxialm/ColorDialog/fc1804b35a/res/mipmap/ic_info.png"
+    },
+    {
+        "merged": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/mipmap/ic_help.png",
+        "source": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.github.andyxialm/ColorDialog/fc1804b35a/res/mipmap/ic_help.png"
+    },
+    {
+        "merged": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/mipmap/ic_success.png",
+        "source": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.github.andyxialm/ColorDialog/fc1804b35a/res/mipmap/ic_success.png"
+    },
+    {
+        "merged": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/mipmap/icon_warning.png",
+        "source": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.github.andyxialm/ColorDialog/fc1804b35a/res/mipmap/icon_warning.png"
+    },
+    {
+        "merged": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/mipmap/ic_wrong.png",
+        "source": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.github.andyxialm/ColorDialog/fc1804b35a/res/mipmap/ic_wrong.png"
+    }
+]

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/jitpack/build/ColorDialog/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="color_dialog_content">#ed7861</color>
+    <color name="color_dialog_content_prompt">#343434</color>
+    <color name="color_dialog_gray">#ededf3</color>
+    <color name="color_dialog_title">#303030</color>
+    <color name="color_type_help">#e8bd4b</color>
+    <color name="color_type_info">#79b3e4</color>
+    <color name="color_type_success">#90b06e</color>
+    <color name="color_type_warning">#e8bd4b</color>
+    <color name="color_type_wrong">#ed7861</color>
+    <!-- From: file:/home/jitpack/build/ColorDialog/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">ColorDialog</string>
+    <!-- From: file:/home/jitpack/build/ColorDialog/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="color_dialog" parent="android:Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.4</item>
+    </style>
+</resources>

@@ -5,6 +5,7 @@ var nativescript_fancyalert_1 = require('nativescript-fancyalert');
 var firebase = require('nativescript-plugin-firebase');
 var cameraModule = require("camera");
 var imageModule = require("ui/image");
+var geolocation = require("nativescript-geolocation");
 var LoginComponent = (function () {
     function LoginComponent(routerExt) {
         this.routerExt = routerExt;
@@ -21,14 +22,32 @@ var LoginComponent = (function () {
                 }
             });
         }, function (error) {
-            nativescript_fancyalert_1.TNSFancyAlert.showSuccess('Login!', error, 'Entrar!');
+            //TNSFancyAlert.showSuccess('Login!', error, 'Entrar!');
         });
+    };
+    LoginComponent.prototype.enableLocationTap = function () {
+        if (!geolocation.isEnabled()) {
+            geolocation.enableLocationRequest();
+            this.prenderCoordenadas(1);
+        }
+    };
+    LoginComponent.prototype.prenderCoordenadas = function (minutos) {
+        geolocation.watchLocation(function (loc) {
+            if (loc) {
+                console.dir("Latitud: " + loc.latitude);
+                console.dir("Longitud: " + loc.longitude);
+                console.dir("Speed: " + loc.speed);
+            }
+        }, function (e) {
+            console.log("Error: " + e.message);
+        }, { desiredAccuracy: 3, updateDistance: 10, minimumUpdateTime: 1000 * (minutos * 60) }); // Should update every 20 seconds according to Googe documentation. Not verified.
     };
     LoginComponent.prototype.takePicture = function () {
         cameraModule.takePicture().then(function (picture) {
             console.log("Result is an image source instance");
             var image = new imageModule.Image();
             image.imageSource = picture;
+            console.dir(image.imageSource);
         });
     };
     LoginComponent.prototype.login = function () {
@@ -47,7 +66,7 @@ var LoginComponent = (function () {
                 }
             });
         }, function (errorMessage) {
-            nativescript_fancyalert_1.TNSFancyAlert.showSuccess('Error!', 'Wow, ocurrio un error.', 'retry');
+            nativescript_fancyalert_1.TNSFancyAlert.showError('Error!', 'Wow, ocurrio un error.', 'retry');
         });
     };
     LoginComponent = __decorate([

@@ -2,6 +2,7 @@
     <Label class="titulo" text="Listado de Chats"></Label>
 </ActionBar>
 <StackLayout>
+    <Button (tap)="newChat()" text="New Chat"></Button>
     <ListView [items]="mockChat">
         <template let-item="item" let-i="index" let-odd="odd" let-even="event">
             <StackLayout class="listadoChat">

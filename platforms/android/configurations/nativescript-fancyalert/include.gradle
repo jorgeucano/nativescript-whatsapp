@@ -1,0 +1,17 @@
+android {
+    productFlavors {
+        "F1" {
+            dimension "nativescriptfancyalert"
+        }
+    }
+}
+
+repositories {
+   maven {
+      url  "https://jitpack.io"
+   }
+}
+
+dependencies {
+     compile 'com.github.andyxialm:ColorDialog:fc1804b35a'
+}

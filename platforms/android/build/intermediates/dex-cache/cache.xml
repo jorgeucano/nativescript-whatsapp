@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.github.andyxialm/ColorDialog/fc1804b35a/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f04d9a60ce24d8aa9a4a415f330270b9289b03f7">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.github.andyxialm-ColorDialog-fc1804b35a_6209b49c848a633a3249d0e11c2c57e6d5052ef6.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/MiWhatIt/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="791326bdf152dc35a200aea2938d5e5f2af0c81a">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/MiWhatIt-runtime-unspecified_00f2a7c85f19ccf4e111f8574f568aac7bc33d72.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9eec987a0056adc79d607b32e7e1c41997a434a7">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/intermediates-exploded-aar-widgets-release_8530812ce47704ea90e28e77d69fad9e48c7e83d.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-auth-module-9.8.0_1de9ba8b5d1192707bfb7080cc88c7f5e5a875ae.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-messaging-9.8.0_3a4e1808f2cf039bf28c08bbe028010a87a4ad1a.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-common-9.8.0_6973eb5c97575a1684f835322d9380ed672a9e8d.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-cardview-v7-25.0.0_f4b116494a986b15b185b7e4e8b8b8171c311b95.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.android.gms-play-services-auth-base-9.8.0_bf12e8ad4da29a47137fe29825c3f47095fc0d93.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-support-media-compat-25.0.0_ebc16568b1f1ef84d97d0ac3f09316e72dced162.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/firebase-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c9516c20ad330d844b3275d9c3acb0b798b6d8ae">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/intermediates-exploded-aar-firebase-release_03cb6d6cf29cd6a17fed990631b075e3a6328979.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-config-9.8.0_6191f6f2df14f4a6497fa47fab1e70dc6fef7ad2.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/internal_impl-25.0.0_063c65df64d45ded029c91507730c722645233fc.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-support-v4-25.0.0_b80e183a0614f8444572164014d9c9e332e2f59c.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-support-fragment-25.0.0_a20a7fab8a7cbf4028cfa515965e3820f83eb489.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-customtabs-25.0.0_aa5ce0bd1915e41422e348158e2e608c7c4abce0.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-support-vector-drawable-25.0.0_85da70072f7075d61df3c82f531f3da7bdef9f29.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-design-23.4.0_900ecc8a6bda15ee2d6683fae79e53e7ac0280d8.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-animated-vector-drawable-25.0.0_ac2010a5d1031aebf0d047627c9b3c92f8eadb96.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-appcompat-v7-25.0.0_fb6de2e5a6957cb112b28b24382d9f7affe44a60.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/internal_impl-25.0.0_9e6a155e54581df06b8cec4f23c2d5d47daedaf3.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/bolts-applinks-1.4.0_963322a572628365059fab345f218eae272450a8.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-recyclerview-v7-23.4.0_4b8edbb9b410dff332490aae609198796553be31.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/internal_impl-25.0.0_47cc952cf773ff53beff218d3c3f61f693e9c492.jar" />
+    </item>
+    <item
+        jar="/Developer/android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/support-annotations-25.0.0_26df2983b24a091517429bc8dfd353464c1a959a.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-database-9.8.0_49455ce9d0c7165ead974653b8d3e7a457211b80.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-support-compat-25.0.0_8360611e4ee8f9e72b2ebc32b7db4b2862a9fc38.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-analytics-9.8.0_92360c8819c8b0266d25f2708d8c071257acf15d.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/internal_impl-25.0.0_64eaa3caa70fe64d4a30ef78d7c2dd874170778a.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.android.gms-play-services-basement-9.8.0_9f5180a50df8b0083109933b7b8b0d2406fe88d3.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-analytics-impl-9.8.0_7fd37a6c606b1fba945f76ffc5292c7ff267e5fd.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-support-core-utils-25.0.0_09f48df7569406c6e53e67d9a9ff8a40e1521b35.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-auth-9.8.0_b3bd2bdfb60d3c04ff9bc72a4e2b47a672c87329.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="43a08f2cc1bc8e9678b5a1740f3b91b50ab50ac6">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.facebook.android-facebook-android-sdk-4.18.0_8568e83bdebe78d9c24b45d8b6efbc5fedb3a512.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-database-connection-9.8.0_8505a8d90b8f3c66037cd6c1071d3e559683be6b.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-auth-common-9.8.0_4dc100a395964728b78599dc37e2dcdfc07f93cc.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-crash-9.8.0_ccf7b4e26ad405bc0259a4e43f874e889a298a3c.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.android.gms-play-services-base-9.8.0_cc7b5ab6f59205e447e08d1129d6c11d2bbc37cb.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/internal_impl-25.0.0_93dbf0cafd2d684d36ae42f1af8a3fbcd82154a8.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-support-core-ui-25.0.0_2844938a1f553077b429d1ce4539e732729d4a97.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.android.gms-play-services-tasks-9.8.0_58c6aa57518f2ea5e1bcf9d683df02d3d24a2c96.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-storage-9.8.0_7dc5b5051f14556b112cadbd141b91a9b77310f3.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-iid-9.8.0_fc22d6bc4fcec16ff68a069f4922b3942e198507.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.firebase-firebase-storage-common-9.8.0_1e1c1e7ab1401dea37a7582b6da49e995cfc3009.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.google.android.gms-play-services-auth-9.8.0_0667f1ca180c20a70ef9ce2c49996930a47d864e.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/bolts-tasks-1.4.0_cd790a59b7bc461408da103399da4c73a22f18b9.jar" />
+    </item>
+    <item
+        jar="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/MiWhatIt/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fea98d375ec6edba3b9192dfecb16864c8c1fb10">
+        <dex dex="/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/binding-generator_81c31a4a9797ca36052bc682ac1ffa33c24fa834.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+<StackLayout>
+    <Label class="titulo" text="login"></Label>
+    <TextField hint="Email" keyboardType="text" [(ngModel)]="email"
+        autocorrect="false" autocapitalizationType="none"></TextField>
+    <TextField hint="Password" secure="true" [(ngModel)]="password"
+        autocorrect="false" autocapitalizationType="none"></TextField>
+    <Button class="submit-botton" (tap)="login()" text="login"></Button>
+    <Button [nsRouterLink]="['/createUser']" text="Crear Usuario"></Button>
+    <Button (tap)="takePicture()" text="Take Picture"></Button>
+</StackLayout>

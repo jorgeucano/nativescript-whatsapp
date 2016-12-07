@@ -202,8 +202,76 @@ In file included from /Users/jorgeucano/Documents/cursos/nativescript/code/MiWha
 @property (nonatomic) UIColor *color;
 ^
 /Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/build/device/SCLAlertView_Objective_C.framework/Headers/SCLTimerDisplay.h:29:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
-In file included from umbrella.h:694:
+In file included from umbrella.h:557:
+In file included from /Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikAppFeedback.framework/Headers/TelerikAppFeedback.h:20:
+In file included from /Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikAppFeedback.framework/Headers/TKFeedback.h:8:
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:23:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSString* feedbackSentAlertTitle;
+^
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:23:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:28:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSString* feedbackSentAlertText;
+^
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:28:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:33:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSString* feedbackTitle;
+^
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:33:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:38:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSString* feedbackMenuSendCaption;
+^
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:38:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:43:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSString* feedbackMenuSettingsCaption;
+^
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:43:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:48:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSString* feedbackMenuMyFeedbackCaption;
+^
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:48:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:661:
+In file included from /Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TelerikUI.h:77:
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TKChartAxis.h:182:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) TKRange * __nonnull zoomRange;
+^
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TKChartAxis.h:182:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:661:
+In file included from /Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TelerikUI.h:239:
+In file included from /Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TKDataSource.h:12:
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TKAutoCompleteTextView.h:84:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property(nonatomic, nonnull) TKAutoCompleteCoverView *cover;
+^
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TKAutoCompleteTextView.h:84:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:661:
+In file included from /Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TelerikUI.h:270:
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TKEntityProperty.h:88:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSString *groupName;
+^
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TKEntityProperty.h:88:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:661:
+In file included from /Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TelerikUI.h:274:
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TKDataFormEditor.h:83:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic, nullable) id value;
+^
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TKDataFormEditor.h:83:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:661:
+In file included from /Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TelerikUI.h:296:
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TKEntityPropertyGroupEditorsView.h:19:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) id<TKLayout> layout;
+^
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TKEntityPropertyGroupEditorsView.h:19:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:661:
+In file included from /Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TelerikUI.h:357:
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TKGridLayoutCellDefinition.h:87:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSNumber *row;
+^
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TKGridLayoutCellDefinition.h:87:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TKGridLayoutCellDefinition.h:92:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSNumber *column;
+^
+/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/ios/../../lib/iOS/TelerikUI.framework/Headers/TKGridLayoutCellDefinition.h:92:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:696:
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.1.sdk/usr/include/os/log.h:35:2: error: using os/log.h requires Xcode 8 or later
 #error using os/log.h requires Xcode 8 or later
  ^
-14 warnings and 1 error generated.
+40 warnings and 1 error generated.

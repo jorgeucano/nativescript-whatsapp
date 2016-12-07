@@ -1,0 +1,76 @@
+{
+  "name": "nativescript-camera",
+  "version": "0.0.8",
+  "description": "Provides API for using device camera",
+  "main": "nativescript-camera",
+  "nativescript": {
+    "platforms": {
+      "android": "2.3.0",
+      "ios": "2.3.0"
+    }
+  },
+  "keywords": [
+    "NativeScript",
+    "camera",
+    "gallery",
+    "images"
+  ],
+  "author": {
+    "name": "NativeScript team"
+  },
+  "_id": "nativescript-camera@0.0.8",
+  "_shasum": "90b383ddb6431a193e520d3ce37409499c181bee",
+  "_resolved": "https://registry.npmjs.org/nativescript-camera/-/nativescript-camera-0.0.8.tgz",
+  "_from": "nativescript-camera@latest",
+  "scripts": {},
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.7.0",
+  "_npmUser": {
+    "name": "tns-bot",
+    "email": "nativescript@telerik.com"
+  },
+  "dist": {
+    "shasum": "90b383ddb6431a193e520d3ce37409499c181bee",
+    "tarball": "https://registry.npmjs.org/nativescript-camera/-/nativescript-camera-0.0.8.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "enchev",
+      "email": "vladimir.enchev@gmail.com"
+    },
+    {
+      "name": "erjangavalji",
+      "email": "erjan.gavalji@gmail.com"
+    },
+    {
+      "name": "hdeshev",
+      "email": "hristo@deshev.com"
+    },
+    {
+      "name": "hhristov",
+      "email": "hristo.hristov@outlook.com"
+    },
+    {
+      "name": "nsndeck",
+      "email": "nedyalko.nikolov@telerik.com"
+    },
+    {
+      "name": "panayot.cankov",
+      "email": "panayot.cankov@telerik.com"
+    },
+    {
+      "name": "tns-bot",
+      "email": "nativescript@telerik.com"
+    },
+    {
+      "name": "vakrilov",
+      "email": "alexander.vakrilov@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nativescript-camera-0.0.8.tgz_1479302619664_0.639167858986184"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}

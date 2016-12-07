@@ -8,6 +8,10 @@
     <string>Requires access to camera.</string>
     <key>NSMicrophoneUsageDescription</key>
     <string>Requires access to microphone.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Need location when in use.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Need location always.</string>
     <key>CFBundleDevelopmentRegion</key>
     <string>en</string>
     <key>CFBundleDisplayName</key>

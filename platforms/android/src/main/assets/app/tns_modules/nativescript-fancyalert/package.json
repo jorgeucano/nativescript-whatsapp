@@ -1,0 +1,114 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-fancyalert@^1.1.0",
+        "scope": null,
+        "escapedName": "nativescript-fancyalert",
+        "name": "nativescript-fancyalert",
+        "rawSpec": "^1.1.0",
+        "spec": ">=1.1.0 <2.0.0",
+        "type": "range"
+      },
+      "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt"
+    ]
+  ],
+  "_from": "nativescript-fancyalert@>=1.1.0 <2.0.0",
+  "_id": "nativescript-fancyalert@1.1.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/nativescript-fancyalert",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-fancyalert-1.1.0.tgz_1478457019215_0.30192326684482396"
+  },
+  "_npmUser": {
+    "name": "walkerrunpdx",
+    "email": "walkerrunpdx@gmail.com"
+  },
+  "_npmVersion": "3.10.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-fancyalert@^1.1.0",
+    "scope": null,
+    "escapedName": "nativescript-fancyalert",
+    "name": "nativescript-fancyalert",
+    "rawSpec": "^1.1.0",
+    "spec": ">=1.1.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-fancyalert/-/nativescript-fancyalert-1.1.0.tgz",
+  "_shasum": "98c75815032e4dba048bc6a696439b0139da8a5b",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-fancyalert@^1.1.0",
+  "_where": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt",
+  "author": {
+    "name": "Nathan Walker",
+    "email": "walkerrunpdx@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/NathanWalker/nativescript-fancyalert/issues"
+  },
+  "contributors": [
+    {
+      "name": "Brad Martin",
+      "email": "bradwaynemartin@gmail.com",
+      "url": "https://github.com/bradmartin"
+    }
+  ],
+  "dependencies": {},
+  "description": "Fancy alerts for NativeScript.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "98c75815032e4dba048bc6a696439b0139da8a5b",
+    "tarball": "https://registry.npmjs.org/nativescript-fancyalert/-/nativescript-fancyalert-1.1.0.tgz"
+  },
+  "gitHead": "aa56e421402b6b13b59fceeb210afb63bdcd74fd",
+  "homepage": "https://github.com/NathanWalker/nativescript-fancyalert",
+  "keywords": [
+    "NativeScript",
+    "iOS",
+    "Android",
+    "alert",
+    "dialogs"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/NathanWalker/nativescript-fancyalert/blob/master/LICENSE"
+  },
+  "main": "fancyalert.js",
+  "maintainers": [
+    {
+      "name": "walkerrunpdx",
+      "email": "walkerrunpdx@gmail.com"
+    }
+  ],
+  "name": "nativescript-fancyalert",
+  "nativescript": {
+    "platforms": {
+      "ios": "2.3.0",
+      "android": "2.3.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanWalker/nativescript-fancyalert.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "demo.android": "npm run preparedemo && cd demo && tns run android",
+    "demo.ios": "npm run preparedemo && cd demo && tns emulate ios",
+    "preparedemo": "npm run build && cd demo && tns plugin remove nativescript-fancyalert && tns plugin add .. && tns install",
+    "setup": "npm i && cd demo && npm install && cd .. && npm run build && cd demo && tns plugin add .. && cd .."
+  },
+  "typings": "index.d.ts",
+  "version": "1.1.0"
+}

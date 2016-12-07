@@ -16,6 +16,10 @@
 		CD45EE7C18DC2D5800FB50C0 /* app in Resources */ = {isa = PBXBuildFile; fileRef = CD45EE7A18DC2D5800FB50C0 /* app */; };
 		CD62955D1BB2678900AE3A93 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CD62955C1BB2678900AE3A93 /* main.m */; };
 		B512C2F388154E1F8032ED25 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = AC3F4311438C42A78743C1D9 /* GoogleService-Info.plist */; };
+		3D2FAEDDD2034806A0AC690C /* TelerikAppFeedback.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4EDC2D0F01C84F299037DEAA /* TelerikAppFeedback.framework */; };
+		B2BDFD9317CA403098DA000E /* TelerikAppFeedback.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 4EDC2D0F01C84F299037DEAA /* TelerikAppFeedback.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AE1E7DA696E9469EA964FF0C /* TelerikUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2285BE5FEF934F279CAD2447 /* TelerikUI.framework */; };
+		D178F5A1D4CD491DB73B5F1A /* TelerikUI.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 2285BE5FEF934F279CAD2447 /* TelerikUI.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,6 +30,8 @@
 			dstSubfolderSpec = 10;
 			files = (
 				789899B9ABC44A3D8F4F5B42 /* TNSWidgets.framework in Embed Frameworks */,
+				B2BDFD9317CA403098DA000E /* TelerikAppFeedback.framework in Embed Frameworks */,
+				D178F5A1D4CD491DB73B5F1A /* TelerikUI.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -50,6 +56,8 @@
 		E37D0CA9CF634C4C919EFB0C /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = unknown; name = LaunchScreen.storyboard; path = MiWhatIt/Resources/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC3F4311438C42A78743C1D9 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = unknown; name = "GoogleService-Info.plist"; path = "MiWhatIt/Resources/GoogleService-Info.plist"; sourceTree = "<group>"; fileEncoding = 4; };
 		6A94205A2D984078870B6A84 /* MiWhatIt.entitlements */ = {isa = PBXFileReference; lastKnownFileType = unknown; name = "MiWhatIt.entitlements"; path = "MiWhatIt/Resources/MiWhatIt.entitlements"; sourceTree = "<group>"; fileEncoding = 4; };
+		4EDC2D0F01C84F299037DEAA /* TelerikAppFeedback.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TelerikAppFeedback.framework; path = "../../lib/iOS/TelerikAppFeedback.framework"; sourceTree = "<group>"; };
+		2285BE5FEF934F279CAD2447 /* TelerikUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TelerikUI.framework; path = "../../lib/iOS/TelerikUI.framework"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +67,8 @@
 			files = (
 				311A3CDC17584BFAA0E9BDC3 /* TNSWidgets.framework in Frameworks */,
 				752F97EF8D84CBF7ECA8079C /* Pods_MiWhatIt.framework in Frameworks */,
+				3D2FAEDDD2034806A0AC690C /* TelerikAppFeedback.framework in Frameworks */,
+				AE1E7DA696E9469EA964FF0C /* TelerikUI.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -97,6 +107,8 @@
 			children = (
 				76AA7859311E468395962C43 /* TNSWidgets.framework */,
 				643D628A56087BEBA521924F /* Pods_MiWhatIt.framework */,
+				4EDC2D0F01C84F299037DEAA /* TelerikAppFeedback.framework */,
+				2285BE5FEF934F279CAD2447 /* TelerikUI.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -407,6 +419,8 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"../../lib/iOS\"",
+					"\"../../lib/iOS\"",
+					"\"../../lib/iOS\"",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MiWhatIt/MiWhatIt-Prefix.pch";
@@ -433,6 +447,8 @@
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
+					"\"../../lib/iOS\"",
+					"\"../../lib/iOS\"",
 					"\"../../lib/iOS\"",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;

@@ -33,3 +33,6 @@ refer to http://docs.nativescript.org/ui/theme.
 .listadoChat{
     background-color:grey;
 }
+.listView90{
+    height: 90%;
+}

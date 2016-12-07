@@ -18,7 +18,9 @@
     "url": true,
     "nativescript-camera": true,
     "nativescript-fancyalert": true,
+    "nativescript-geolocation": true,
     "nativescript-plugin-firebase": true,
+    "nativescript-telerik-ui": true,
     "nativescript-theme-core": true,
     "tns-core-modules": true,
     "tns-core-modules-widgets": true

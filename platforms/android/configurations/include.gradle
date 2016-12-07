@@ -1,0 +1,4 @@
+
+android {
+    flavorDimensions "nativescriptcamera", "nativescriptfancyalert", "nativescriptpluginfirebase", "tnscoremoduleswidgets"
+}

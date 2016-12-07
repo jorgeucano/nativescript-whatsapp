@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1048077916191-9f1fclhbbh9koel9qf1cn5lcsfr3f2cq.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://miwhatit.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1048077916191</string>
+    <string name="google_api_key" translatable="false">AIzaSyBIrFxrVvUJC_8gF6e3PdmB5oSTJK0IIbI</string>
+    <string name="google_app_id" translatable="false">1:1048077916191:android:44a798b4eb4cd5ef</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBIrFxrVvUJC_8gF6e3PdmB5oSTJK0IIbI</string>
+    <string name="google_storage_bucket" translatable="false">miwhatit.appspot.com</string>
+</resources>

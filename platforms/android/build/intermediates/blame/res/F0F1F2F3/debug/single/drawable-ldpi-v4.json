@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldpi-v4/icon.png",
+        "source": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldpi-v4/logo.png",
+        "source": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldpi-v4/background.png",
+        "source": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/src/main/res/drawable-ldpi/background.png"
+    }
+]

@@ -86,11 +86,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		/e2YLAEdLzpRvFyNfdTcmokhR+0=
+		IQhlFaqFxIK48f4m8jwanMFYIMQ=
 		</data>
 		<key>Frameworks/Bolts.framework/Bolts</key>
 		<data>
-		FlNIbgeM15Cy41QHUzWzBBJClCg=
+		PqHENTRN/J9PVxRhSy9X7nKkp80=
 		</data>
 		<key>Frameworks/Bolts.framework/Info.plist</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Frameworks/FBSDKCoreKit.framework/FBSDKCoreKit</key>
 		<data>
-		o2ikxG++HZ6vD9UXfzc5Lz6yXiM=
+		wNXiQwD1cFe1gyt0qzoQe55TvT0=
 		</data>
 		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/af.lproj/FacebookSDK.strings</key>
 		<dict>
@@ -510,7 +510,7 @@
 		</data>
 		<key>Frameworks/FBSDKLoginKit.framework/FBSDKLoginKit</key>
 		<data>
-		kCGUQfTDrswP9wyyakjueC3IEhA=
+		C4GY9ljR2OQhOPeUWXrA7FHA9qg=
 		</data>
 		<key>Frameworks/FBSDKLoginKit.framework/Info.plist</key>
 		<data>
@@ -522,7 +522,7 @@
 		</data>
 		<key>Frameworks/GTMOAuth2.framework/GTMOAuth2</key>
 		<data>
-		uGkNJFxqsy3tfElaAH3cbV4o/hU=
+		/58RLm8FxanGxJQWEf2wDW/6cHw=
 		</data>
 		<key>Frameworks/GTMOAuth2.framework/GTMOAuth2ViewTouch.nib</key>
 		<data>
@@ -538,7 +538,7 @@
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<data>
-		2mcmAFG00QPasWJGYqhwCjvab5o=
+		K3lGFEGE+BAG4WYqzs/XmvNaJ5k=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<data>
@@ -550,7 +550,7 @@
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac</key>
 		<data>
-		ciiEkrLKPWuA+XDkgj0yge0iL4c=
+		W3/uuESQre3sP6AT/k0hHu158OE=
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
 		<data>
@@ -566,7 +566,7 @@
 		</data>
 		<key>Frameworks/NativeScript.framework/NativeScript</key>
 		<data>
-		K3vfuBirABv0I++qJHvFdtLIUvU=
+		URkV0Bt2LtnRhPchSykLreryIfY=
 		</data>
 		<key>Frameworks/NativeScript.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -578,7 +578,7 @@
 		</data>
 		<key>Frameworks/SCLAlertView_Objective_C.framework/SCLAlertView_Objective_C</key>
 		<data>
-		rtF6KLTdNTOf5KnhyTh5/EiubW0=
+		r9qMaos78zOG25Ytiin5TZQTHnw=
 		</data>
 		<key>Frameworks/SCLAlertView_Objective_C.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -590,7 +590,7 @@
 		</data>
 		<key>Frameworks/TKLiveSync.framework/TKLiveSync</key>
 		<data>
-		3jt/SsGCvIsrcmeMz0sOtuKxUsc=
+		VPGLwJTQ/gtBoeDVPa7r/0NIq44=
 		</data>
 		<key>Frameworks/TKLiveSync.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -607,6 +607,30 @@
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
 		<data>
 		nYcVjHTTYbUoFB+VFEZRNTWdL+A=
+		</data>
+		<key>Frameworks/TelerikAppFeedback.framework/Info.plist</key>
+		<data>
+		FPCwM2dqtseIKvOhGs8ZZtm8GzI=
+		</data>
+		<key>Frameworks/TelerikAppFeedback.framework/TelerikAppFeedback</key>
+		<data>
+		kApVcd6RsoLyF7dOmr52H1rzMlc=
+		</data>
+		<key>Frameworks/TelerikAppFeedback.framework/_CodeSignature/CodeResources</key>
+		<data>
+		4MhpfS0VY0wJnMoZVYlPL/RHg8A=
+		</data>
+		<key>Frameworks/TelerikUI.framework/Info.plist</key>
+		<data>
+		V/lpkoyy6AsBnYnHouWqyiTBjLY=
+		</data>
+		<key>Frameworks/TelerikUI.framework/TelerikUI</key>
+		<data>
+		alPazVmz6EWCtNbkGw5jdB3LPo4=
+		</data>
+		<key>Frameworks/TelerikUI.framework/_CodeSignature/CodeResources</key>
+		<data>
+		ePcMhOG7SGsMZMT/CY0GI7zHTsw=
 		</data>
 		<key>GoogleService-Info.plist</key>
 		<data>
@@ -958,7 +982,7 @@
 		</dict>
 		<key>Info.plist</key>
 		<data>
-		9xDnSIHXlwl2UWZAEUMLywGhVCY=
+		PNS++FudUReJM/lsO/gqmkeEy7c=
 		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
@@ -1026,7 +1050,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		tpfpn4/PrnLC08c4JCvyna77W4Y=
+		l12empGmYSVpDge1vgusE7HNs0E=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -1034,7 +1058,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		o1cSaDz1/+oxJnSjmu+Q/i1G8io=
+		ZbYYnzQ/EPn/JTf5AymZtJ8qLKE=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -1042,7 +1066,7 @@
 		</data>
 		<key>app/App_Resources/Android/AndroidManifest.xml</key>
 		<data>
-		6QGZR/Rncbg+KSQ3TObl21XpF68=
+		mmwa341i13sk0QmBQXEQZp1FLHA=
 		</data>
 		<key>app/App_Resources/Android/app.gradle</key>
 		<data>
@@ -1318,7 +1342,7 @@
 		</data>
 		<key>app/app.css</key>
 		<data>
-		OwpzRC+k7JSZ9LtxHSTddK4NnGY=
+		xUm2ztb8ydbFk5aAxqqmW2q2qFU=
 		</data>
 		<key>app/app.module.js</key>
 		<data>
@@ -1326,15 +1350,15 @@
 		</data>
 		<key>app/app.module.js.map</key>
 		<data>
-		9T/0ucTa8ECLLglmujjqV24bJCc=
+		HiO7cNa7nA3nWqrTejlW/zSHdSA=
 		</data>
 		<key>app/app.module.ts</key>
 		<data>
-		0pCPeYoUcwjqoo1twB9w7gTbGIs=
+		uXgMY9IIMY0MYzdTTVuGm3JCrBM=
 		</data>
 		<key>app/chat/chat.component.html</key>
 		<data>
-		ZUB1iZtNC1h/6q60YcoSuaUW/bo=
+		6Qmb9Ufnpm8+7KLhd4dmU0f337s=
 		</data>
 		<key>app/chat/chat.component.js</key>
 		<data>
@@ -1354,19 +1378,19 @@
 		</data>
 		<key>app/chats/listado.component.html</key>
 		<data>
-		iLonnAwbFF6sKIymObIhRuebUC0=
+		JyerbsHkuvPSRYyJtf5csTJsV0c=
 		</data>
 		<key>app/chats/listado.component.js</key>
 		<data>
-		UowEJLAh4/497+oA2bdRX1ljAeU=
+		CxcV6ZuGQBQlY/xLgCQAZgiVv3w=
 		</data>
 		<key>app/chats/listado.component.js.map</key>
 		<data>
-		iuza0y/Z+I0Cq0o8TCVsrRmo+yU=
+		FpLYuE1rMJbeEq3EOwVHv0f1fMs=
 		</data>
 		<key>app/chats/listado.component.ts</key>
 		<data>
-		Tf3b5BPCDq5RNrv3V3ckCt2Ift4=
+		GezoHEFa5gUhypQWRWvBT2XIGLs=
 		</data>
 		<key>app/login/create.user.component.js</key>
 		<data>
@@ -1386,19 +1410,19 @@
 		</data>
 		<key>app/login/login.component.html</key>
 		<data>
-		AYJ8ST74t+3BNVZfsaMEaVoFCbs=
+		iC54rJ2ouyvKEdTTPp5cWPNRJgo=
 		</data>
 		<key>app/login/login.component.js</key>
 		<data>
-		uWMZGluyInKKpv/ZAyZA6M6+rf4=
+		UaHIYtqEzPIQLh2VQeCh5/hkIF8=
 		</data>
 		<key>app/login/login.component.js.map</key>
 		<data>
-		b/JaLTsFpF7e7LdNeuG8rHuEU0w=
+		g+xDm5Of07rIjD4Vs6zRTKgLl5o=
 		</data>
 		<key>app/login/login.component.ts</key>
 		<data>
-		KDYDLcqz4TEGQaoWzgClsti3Yvw=
+		M+KifyLJVq9qeMLdTZ4az1cPgtk=
 		</data>
 		<key>app/main.aot.ts</key>
 		<data>
@@ -8356,6 +8380,34 @@
 		<data>
 		uUlVauVrSaowRMMaFKNPPJo4OtQ=
 		</data>
+		<key>app/tns_modules/nativescript-geolocation/README.md</key>
+		<data>
+		8XFhl12b1FQMXT99sq2ZOPPPcDE=
+		</data>
+		<key>app/tns_modules/nativescript-geolocation/index.d.ts</key>
+		<data>
+		L0ciostJeV4NH2TmhVb4iGT9YNU=
+		</data>
+		<key>app/tns_modules/nativescript-geolocation/location-monitor.d.ts</key>
+		<data>
+		WOKA/yGPYW6PuR6RWMWwlz8RCKA=
+		</data>
+		<key>app/tns_modules/nativescript-geolocation/location.d.ts</key>
+		<data>
+		PuoLizu9Vkuq1XIVc/p1isfmsFk=
+		</data>
+		<key>app/tns_modules/nativescript-geolocation/nativescript-geolocation-common.js</key>
+		<data>
+		BpbVIA5o2IETGzeqA1hM2ainMF4=
+		</data>
+		<key>app/tns_modules/nativescript-geolocation/nativescript-geolocation.js</key>
+		<data>
+		Ad63T03pHgSdl9q5ALufILKGPXk=
+		</data>
+		<key>app/tns_modules/nativescript-geolocation/package.json</key>
+		<data>
+		wNoSflGMVzsa6OFmwliRk5mRB+A=
+		</data>
 		<key>app/tns_modules/nativescript-plugin-firebase/.idea/.name</key>
 		<data>
 		IT5AZt5buO8WuxIeUuDX7RyeZ6g=
@@ -8471,6 +8523,110 @@
 		<key>app/tns_modules/nativescript-plugin-firebase/scripts/winston-mock.js</key>
 		<data>
 		bPKYKdhLsmY3FFZwhI2M57NRFGU=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/LICENSE.md</key>
+		<data>
+		ceydsyCXXwmdCQt1MdqPqJL/4zY=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/README.md</key>
+		<data>
+		5g1OvQGH6huMComVttGMu0z6rWY=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/index.d.ts</key>
+		<data>
+		Xx2/dqXu4HM8Nxs/UCHArS8pBRM=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/listview-directives.js</key>
+		<data>
+		o8kiglc58iC9BJf0x6jFO6OBwf4=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/package.json</key>
+		<data>
+		qDuj8pZ3dampScOMdR9rGVRSh9Q=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/index.d.ts</key>
+		<data>
+		yIB9LebWY91S6yD2SJIcr3qU9OM=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/listview-android-map.d.ts</key>
+		<data>
+		51169XNjLE3NDkMu12yWnUlEiBQ=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/listview-common.js</key>
+		<data>
+		u+QWzS5qwjtPzC+QJyBfB/OCl1k=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/listview-ios-map.d.ts</key>
+		<data>
+		A4NzcX+OqMGq2kuW3ZEe7kemHUU=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/listview.js</key>
+		<data>
+		a0mgmnEMrUFs8+rqUWlzGhPeZuY=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/package.json</key>
+		<data>
+		7gxFgexRBDmpi38M+BAlYN1mZzY=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/package.json</key>
+		<data>
+		rEBZ22EWeHVoIrOofyD9sELh9nM=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/scripts/email-prompt.js</key>
+		<data>
+		dy/rtOWinxgGQQC1FuAjv0aw+R8=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/scripts/eula-prompt.js</key>
+		<data>
+		pFjLldCikKbe/TOTd3OjgZDgztY=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/index.d.ts</key>
+		<data>
+		sHZ5g7Fz0RSlLeodWH4uYSYjY/k=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/package.json</key>
+		<data>
+		cVLjLuvH4WgHhVeuPS1GzIdH34Y=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/side-drawer-directives.js</key>
+		<data>
+		jxgYPBIa7cPJvSsC7FEedBblbbo=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/drawerpage/drawerpage-common.js</key>
+		<data>
+		zjzmDZUGYvBtV25ljVnVM2H+DoI=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/drawerpage/drawerpage.js</key>
+		<data>
+		lZWSn2in0A3688Jr/Axgfrr/sdA=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/drawerpage/index.d.ts</key>
+		<data>
+		rW7alcibK9nZC87acTUCuKcui5Y=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/drawerpage/package.json</key>
+		<data>
+		/4XxbsUGeNgqM9NEIeV3RT66YLE=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/index.d.ts</key>
+		<data>
+		vN/39fuvuxC2Rfd4J8ULQ19zwGo=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/package.json</key>
+		<data>
+		Ioq4R6C3uz4y4TViY+uxIZutq6E=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/sidedrawer-common.js</key>
+		<data>
+		lTnB4kybF/Hvk8ohUoTtZErx81E=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/sidedrawer-ios-map.d.ts</key>
+		<data>
+		+baOrS579xTHKqX1soE8eMKImEw=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/sidedrawer.js</key>
+		<data>
+		X6hv9DO0bAowxygR5Huna7G8ik8=
 		</data>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>
 		<data>
@@ -15812,22 +15968,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/e2YLAEdLzpRvFyNfdTcmokhR+0=
+			IQhlFaqFxIK48f4m8jwanMFYIMQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			xXqHczrvjtWgZCyV9Vj87JyXelsw9Tf5wXPLV3zTl8s=
+			Gh8zeNQXth9pmxAuEfrUglmqKk7hmOI3Y0xFEduQieM=
 			</data>
 		</dict>
 		<key>Frameworks/Bolts.framework/Bolts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FlNIbgeM15Cy41QHUzWzBBJClCg=
+			PqHENTRN/J9PVxRhSy9X7nKkp80=
 			</data>
 			<key>hash2</key>
 			<data>
-			Cff8k+rfQ9ph8EtjpGmx1pTeSZlwi3K6bOL6szJvZl4=
+			FsbnBegmbe3XW3yGZgtuLZJ7VPBvRJNqE9KW0Zl8hMs=
 			</data>
 		</dict>
 		<key>Frameworks/Bolts.framework/Info.plist</key>
@@ -15856,11 +16012,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o2ikxG++HZ6vD9UXfzc5Lz6yXiM=
+			wNXiQwD1cFe1gyt0qzoQe55TvT0=
 			</data>
 			<key>hash2</key>
 			<data>
-			vP4sWB/HAv6loZWCrnHEwRxwyNgzgzb7nOc0Nxw6tW4=
+			Su+E7nKOp4YD92qi0pQN7Nc/n7DUc59+vnPkB7FXPiY=
 			</data>
 		</dict>
 		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/af.lproj/FacebookSDK.strings</key>
@@ -16461,11 +16617,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kCGUQfTDrswP9wyyakjueC3IEhA=
+			C4GY9ljR2OQhOPeUWXrA7FHA9qg=
 			</data>
 			<key>hash2</key>
 			<data>
-			XO1AcxbhU7uHHGzpHjCA06yP0eMt+q84HV1eIo3kQYc=
+			0fjuD4R2undnGpg/AxgxidTFB+iPu/trQQGXrBymTGc=
 			</data>
 		</dict>
 		<key>Frameworks/FBSDKLoginKit.framework/Info.plist</key>
@@ -16494,11 +16650,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uGkNJFxqsy3tfElaAH3cbV4o/hU=
+			/58RLm8FxanGxJQWEf2wDW/6cHw=
 			</data>
 			<key>hash2</key>
 			<data>
-			/hId6kifaZxlXGC+YocSMT+tIs9oeQrIU/eoCJBWY1M=
+			MXXl46nymduIUCXGtWPVbvZcRo1k1AvrlyaLzE8CwBU=
 			</data>
 		</dict>
 		<key>Frameworks/GTMOAuth2.framework/GTMOAuth2ViewTouch.nib</key>
@@ -16538,11 +16694,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2mcmAFG00QPasWJGYqhwCjvab5o=
+			K3lGFEGE+BAG4WYqzs/XmvNaJ5k=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z2mmG7EKGlYdrXRXXquuHidsUYxTkWiM10vI9N7iNQo=
+			5qF/ZUaIz3AD/9g/7sPgv6tMdyWr0CjPDTE5xNGXiY0=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
@@ -16571,11 +16727,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ciiEkrLKPWuA+XDkgj0yge0iL4c=
+			W3/uuESQre3sP6AT/k0hHu158OE=
 			</data>
 			<key>hash2</key>
 			<data>
-			7fqZmOvdiCzy/An65trcub7fZkQLhnEnLTouTTB+McM=
+			TT5wJ2fuyf5+HH6/pMUMoMjONKMY11WC9x7PgkRsay4=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
@@ -16615,11 +16771,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			K3vfuBirABv0I++qJHvFdtLIUvU=
+			URkV0Bt2LtnRhPchSykLreryIfY=
 			</data>
 			<key>hash2</key>
 			<data>
-			6V+NzRfPNiiPbRlQwFrjyvRHmdPzYx2mNXJcBkm481E=
+			sBe5X9CRp1CSACkM7QmodWwxrGoGKIJAit2C+qsyjlA=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/_CodeSignature/CodeResources</key>
@@ -16648,11 +16804,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rtF6KLTdNTOf5KnhyTh5/EiubW0=
+			r9qMaos78zOG25Ytiin5TZQTHnw=
 			</data>
 			<key>hash2</key>
 			<data>
-			LJbABeoljR2noFNrnPbvOiADMDoozp2diQwXW0Gq5z4=
+			/Y7zlrOL84onBVILcvh4m0CZS7qALV647EPCBLeydj8=
 			</data>
 		</dict>
 		<key>Frameworks/SCLAlertView_Objective_C.framework/_CodeSignature/CodeResources</key>
@@ -16681,11 +16837,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3jt/SsGCvIsrcmeMz0sOtuKxUsc=
+			VPGLwJTQ/gtBoeDVPa7r/0NIq44=
 			</data>
 			<key>hash2</key>
 			<data>
-			GAWZcaquRfDC0sig0XV98KBSI4MhRBkiWEJ5j4g5exI=
+			QmNQbgXLTgFj9F2AGXy7XpC78SIQp40nYvDd+5Qdaso=
 			</data>
 		</dict>
 		<key>Frameworks/TKLiveSync.framework/_CodeSignature/CodeResources</key>
@@ -16730,6 +16886,72 @@
 			<key>hash2</key>
 			<data>
 			Y7PzcXWjTvXD1UCc01PSgbSCdkp+qEu0R15XDxjRKP8=
+			</data>
+		</dict>
+		<key>Frameworks/TelerikAppFeedback.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FPCwM2dqtseIKvOhGs8ZZtm8GzI=
+			</data>
+			<key>hash2</key>
+			<data>
+			s5nN1iNumdzEcDywLR24APlnG/lfgBew6SunUYBynZc=
+			</data>
+		</dict>
+		<key>Frameworks/TelerikAppFeedback.framework/TelerikAppFeedback</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kApVcd6RsoLyF7dOmr52H1rzMlc=
+			</data>
+			<key>hash2</key>
+			<data>
+			TqaZgJqRjVRo/LsMB0MolXfcpFTBPLeTSEm5RE696+M=
+			</data>
+		</dict>
+		<key>Frameworks/TelerikAppFeedback.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4MhpfS0VY0wJnMoZVYlPL/RHg8A=
+			</data>
+			<key>hash2</key>
+			<data>
+			DOoR6r+sUW8N+oo9+e5YeBFnwG1tdxG3SGC4Cw6hdRU=
+			</data>
+		</dict>
+		<key>Frameworks/TelerikUI.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			V/lpkoyy6AsBnYnHouWqyiTBjLY=
+			</data>
+			<key>hash2</key>
+			<data>
+			uva46nyjwK7n/uZTm312Gdh6g1AyGTwOVQjpByjNvy0=
+			</data>
+		</dict>
+		<key>Frameworks/TelerikUI.framework/TelerikUI</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			alPazVmz6EWCtNbkGw5jdB3LPo4=
+			</data>
+			<key>hash2</key>
+			<data>
+			pBPZqzlvcsJnYpkZmMAwjzYqdwZD7jfHJSE44PzYS4U=
+			</data>
+		</dict>
+		<key>Frameworks/TelerikUI.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ePcMhOG7SGsMZMT/CY0GI7zHTsw=
+			</data>
+			<key>hash2</key>
+			<data>
+			RK12tmu746P78NPE0y9KdYOPepOQ24Pas4CPFDQLn+Q=
 			</data>
 		</dict>
 		<key>GoogleService-Info.plist</key>
@@ -17446,11 +17668,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tpfpn4/PrnLC08c4JCvyna77W4Y=
+			l12empGmYSVpDge1vgusE7HNs0E=
 			</data>
 			<key>hash2</key>
 			<data>
-			JgS5kxekzbC6tgUyJ37DRfotU8/iPB+xyZdlZAPMaY4=
+			+xEAJg7RrDLtQLcxKmlix7dabXy1Mk2AESweOMfgKKE=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -17468,22 +17690,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o1cSaDz1/+oxJnSjmu+Q/i1G8io=
+			ZbYYnzQ/EPn/JTf5AymZtJ8qLKE=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZSX36BboKOr5APNKMQWOPihpgFf0DujtBnY1ydQ6h9E=
+			JjX3pTagQ+tFSCSspbs2qVJmcmw0otGcnYCX2USgx5I=
 			</data>
 		</dict>
 		<key>app/App_Resources/Android/AndroidManifest.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6QGZR/Rncbg+KSQ3TObl21XpF68=
+			mmwa341i13sk0QmBQXEQZp1FLHA=
 			</data>
 			<key>hash2</key>
 			<data>
-			EBI27rtibyoyw40ojbHA8pelPYSoYk7Fghe/FJtJA5M=
+			zaQjPuKWTHdoOWoLCuD+fEIitWlHGWRyQ0ea1T8ZT/k=
 			</data>
 		</dict>
 		<key>app/App_Resources/Android/app.gradle</key>
@@ -18238,11 +18460,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OwpzRC+k7JSZ9LtxHSTddK4NnGY=
+			xUm2ztb8ydbFk5aAxqqmW2q2qFU=
 			</data>
 			<key>hash2</key>
 			<data>
-			UEziCaTtPXhDXy4Tfr9QI/Wqfbiz5CAlaQP/7kMsE+w=
+			cRcgv84BtxuN1uYV/xrjfrlZuV/u5m0VkwrMevxJsRA=
 			</data>
 		</dict>
 		<key>app/app.module.js</key>
@@ -18260,33 +18482,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9T/0ucTa8ECLLglmujjqV24bJCc=
+			HiO7cNa7nA3nWqrTejlW/zSHdSA=
 			</data>
 			<key>hash2</key>
 			<data>
-			A6z4rnIyh36t5Evhcx/E4d3B3LVBMHRrBCMx0lctRhg=
+			mn8yzXU98g5SEfXmJfXs1un2jlgODxlz8iCTx9jFrGA=
 			</data>
 		</dict>
 		<key>app/app.module.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0pCPeYoUcwjqoo1twB9w7gTbGIs=
+			uXgMY9IIMY0MYzdTTVuGm3JCrBM=
 			</data>
 			<key>hash2</key>
 			<data>
-			HgVa2vd8RCNtwEe6Msj9NqaPQR8oeHKWhYilrdyIrSo=
+			ZvzC1/+bKam3CWNQvWirVQVKSGwf8SqeLxDuv5t6XD8=
 			</data>
 		</dict>
 		<key>app/chat/chat.component.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZUB1iZtNC1h/6q60YcoSuaUW/bo=
+			6Qmb9Ufnpm8+7KLhd4dmU0f337s=
 			</data>
 			<key>hash2</key>
 			<data>
-			haRVsGdnAPhR0Ztxt2LRsDAipR4uQTuL7hqa5n4Bmlw=
+			Ne2YImAakTLzaFbt2I6pgvasHu7goGDfrMXj5jhVufI=
 			</data>
 		</dict>
 		<key>app/chat/chat.component.js</key>
@@ -18337,44 +18559,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iLonnAwbFF6sKIymObIhRuebUC0=
+			JyerbsHkuvPSRYyJtf5csTJsV0c=
 			</data>
 			<key>hash2</key>
 			<data>
-			C8KgXKG/9sz4B5c22+DENa/F31KcCrEtKtau7x5Q7UE=
+			n2oMV+VcfVjgSHmFLeX+9r4tdOQR2UheGvGHkEkDrZ8=
 			</data>
 		</dict>
 		<key>app/chats/listado.component.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UowEJLAh4/497+oA2bdRX1ljAeU=
+			CxcV6ZuGQBQlY/xLgCQAZgiVv3w=
 			</data>
 			<key>hash2</key>
 			<data>
-			aV2UdgofuitB2MSDu84lqR03ujICYOwrCsSqnI+9csg=
+			0MdouSnXphwqjfwLLvjUcP4HhsC+i3zSDALq6D0iRBQ=
 			</data>
 		</dict>
 		<key>app/chats/listado.component.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iuza0y/Z+I0Cq0o8TCVsrRmo+yU=
+			FpLYuE1rMJbeEq3EOwVHv0f1fMs=
 			</data>
 			<key>hash2</key>
 			<data>
-			3khMtdHbm02LHuhXhg+FUzSJyhaMOfbQT1hlXVNDY8M=
+			Dq0/ZcFwezn196HIRtW3SVMtKUzQhvvNncGmAeIqspg=
 			</data>
 		</dict>
 		<key>app/chats/listado.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Tf3b5BPCDq5RNrv3V3ckCt2Ift4=
+			GezoHEFa5gUhypQWRWvBT2XIGLs=
 			</data>
 			<key>hash2</key>
 			<data>
-			IsSP7IjT2XUThJiRu+C8s++9H95hq3vMvbcsnKU3ZW4=
+			3lWWCaju9n9htffMxKbE8jDFK6JqUj88wFCRMgFK7/M=
 			</data>
 		</dict>
 		<key>app/login/create.user.component.js</key>
@@ -18425,44 +18647,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AYJ8ST74t+3BNVZfsaMEaVoFCbs=
+			iC54rJ2ouyvKEdTTPp5cWPNRJgo=
 			</data>
 			<key>hash2</key>
 			<data>
-			evxNXis0MUoM0sfuJRyNb0o1UeDf6jYn9zO7JbSapks=
+			r9iyCbdXoyd+BZQJZYzoMTcdD90vmRyPOcJ78Ck5hCA=
 			</data>
 		</dict>
 		<key>app/login/login.component.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uWMZGluyInKKpv/ZAyZA6M6+rf4=
+			UaHIYtqEzPIQLh2VQeCh5/hkIF8=
 			</data>
 			<key>hash2</key>
 			<data>
-			FWatafH2qWp+16mQt+wX+dk1E0+WHX86H2QaIBkF7jA=
+			XhBbFLpUanMR6ttO5zkhnddlnwfAOPXz40mwfyUgJ2U=
 			</data>
 		</dict>
 		<key>app/login/login.component.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			b/JaLTsFpF7e7LdNeuG8rHuEU0w=
+			g+xDm5Of07rIjD4Vs6zRTKgLl5o=
 			</data>
 			<key>hash2</key>
 			<data>
-			NLkP3O7iIT1jaWp1sTcSzxdhHX7sADgD3gA3EANXFzI=
+			aeHo1iYuhzkOv3KmQiVjzqt6puEmhPm44LPNUTno79g=
 			</data>
 		</dict>
 		<key>app/login/login.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KDYDLcqz4TEGQaoWzgClsti3Yvw=
+			M+KifyLJVq9qeMLdTZ4az1cPgtk=
 			</data>
 			<key>hash2</key>
 			<data>
-			UUcP0VRkzGzGq2ITW+Vj5+OIaMXb/88IuiiT0VTygLw=
+			ot0/TlxUBgcayLlsMNLYd0pHq6A0fjs/vsAMXABlH1M=
 			</data>
 		</dict>
 		<key>app/main.aot.ts</key>
@@ -37594,6 +37816,83 @@
 			BX9FTAZesNg+C49N38whExeqkW3FKWzfrusurru7o1U=
 			</data>
 		</dict>
+		<key>app/tns_modules/nativescript-geolocation/README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8XFhl12b1FQMXT99sq2ZOPPPcDE=
+			</data>
+			<key>hash2</key>
+			<data>
+			6MGYQtpyY9fHPLPheQ6R7GW93RkafivrFOiNy7qSDd4=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-geolocation/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			L0ciostJeV4NH2TmhVb4iGT9YNU=
+			</data>
+			<key>hash2</key>
+			<data>
+			xpTqDRYWM2MWn24DAJUogB8E6jMWuEr4kUU+uD4BGq8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-geolocation/location-monitor.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WOKA/yGPYW6PuR6RWMWwlz8RCKA=
+			</data>
+			<key>hash2</key>
+			<data>
+			QDE38PFuB6cTLAEuo/lbMc0oCzEqvRkpo3qI3NLAVdo=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-geolocation/location.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PuoLizu9Vkuq1XIVc/p1isfmsFk=
+			</data>
+			<key>hash2</key>
+			<data>
+			J1m1gnbOxF1UWH98Kb3sGfSOqyoe8esrBZ3kIwhgeI8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-geolocation/nativescript-geolocation-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BpbVIA5o2IETGzeqA1hM2ainMF4=
+			</data>
+			<key>hash2</key>
+			<data>
+			+xWuP/czId08zoTYg4mPhc9V3OF4ciODfD2FOs2lVhU=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-geolocation/nativescript-geolocation.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ad63T03pHgSdl9q5ALufILKGPXk=
+			</data>
+			<key>hash2</key>
+			<data>
+			4aFdMrWic9eN4gUSyP+ibm8spCOU0vvl78/odyeIK40=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-geolocation/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wNoSflGMVzsa6OFmwliRk5mRB+A=
+			</data>
+			<key>hash2</key>
+			<data>
+			xoAT61EqLsqRWTFAC4X3irsQqGgrilDb2EWW7ReDrgU=
+			</data>
+		</dict>
 		<key>app/tns_modules/nativescript-plugin-firebase/.idea/.name</key>
 		<dict>
 			<key>hash</key>
@@ -37911,6 +38210,292 @@
 			<key>hash2</key>
 			<data>
 			zLFAeY7DUDrNN2lMpvW/hc6++2Ncfb474sgKPzH2qT8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/LICENSE.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ceydsyCXXwmdCQt1MdqPqJL/4zY=
+			</data>
+			<key>hash2</key>
+			<data>
+			C+BYq7fXsiiKTkEJXlibtzDC7E/0zOUkDWO6XeBQexA=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5g1OvQGH6huMComVttGMu0z6rWY=
+			</data>
+			<key>hash2</key>
+			<data>
+			PPOMPFi5A/4hHEEn9+LT7BtsYDJHEmC1xrWHOxuiFgY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Xx2/dqXu4HM8Nxs/UCHArS8pBRM=
+			</data>
+			<key>hash2</key>
+			<data>
+			b/VpdhPGirxLHVgWJttwL6VZRWEYaB5tYMe7wAzpjqI=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/listview-directives.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o8kiglc58iC9BJf0x6jFO6OBwf4=
+			</data>
+			<key>hash2</key>
+			<data>
+			VNnUYF5P5Kbv9NS4Yc4VlwUT+fuXPUtiUOS+xhbjl9w=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qDuj8pZ3dampScOMdR9rGVRSh9Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			cSu8ObJrdSIGnBX6Gu/J6KhdZZUVkox8eZsjiGrBVH4=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yIB9LebWY91S6yD2SJIcr3qU9OM=
+			</data>
+			<key>hash2</key>
+			<data>
+			m7jeWnsqppq5o1nGYSvg6OSzr/O5bK66NLO+Q3E0uns=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/listview-android-map.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			51169XNjLE3NDkMu12yWnUlEiBQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			0/42F5EQQEYUbGNOpATVVv87u1+2R+BiRb/p+N6zopc=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/listview-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			u+QWzS5qwjtPzC+QJyBfB/OCl1k=
+			</data>
+			<key>hash2</key>
+			<data>
+			2V5JdF437x7Tfb8RRrhFyaLuYPrDfoiIedI2h3fCx5c=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/listview-ios-map.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			A4NzcX+OqMGq2kuW3ZEe7kemHUU=
+			</data>
+			<key>hash2</key>
+			<data>
+			dxoHoziCbr+MCUeYpwIH8cpJ9LG5lkJL4EOKcMxcFaQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/listview.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			a0mgmnEMrUFs8+rqUWlzGhPeZuY=
+			</data>
+			<key>hash2</key>
+			<data>
+			5o8z+x1847pF1YusGKre/LTcnnusbppTrjVS1mJkqLk=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7gxFgexRBDmpi38M+BAlYN1mZzY=
+			</data>
+			<key>hash2</key>
+			<data>
+			g+PJSdCsUYVUH5nV7+wYu8alYayx6zJgyg+s/0+/8Kw=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rEBZ22EWeHVoIrOofyD9sELh9nM=
+			</data>
+			<key>hash2</key>
+			<data>
+			FULMwON0oiQ3q4ctgNQNNOAtvR6OH3O5jR8cBC4UeY0=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/scripts/email-prompt.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dy/rtOWinxgGQQC1FuAjv0aw+R8=
+			</data>
+			<key>hash2</key>
+			<data>
+			DFrO4KmIN0yDaHrtmfuWukk3LY+OUgJHLTLna5yOXLM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/scripts/eula-prompt.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pFjLldCikKbe/TOTd3OjgZDgztY=
+			</data>
+			<key>hash2</key>
+			<data>
+			stdSfc0J9la2htnSIIsvy/vA3nbA68G3SPlH6SfGTUc=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sHZ5g7Fz0RSlLeodWH4uYSYjY/k=
+			</data>
+			<key>hash2</key>
+			<data>
+			Et8SiTBjY9XNkwCgsZH31OSS0/NSR2eyjr1NpqNwOfQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cVLjLuvH4WgHhVeuPS1GzIdH34Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			WV+3djHbYoz0i4FEHB7LB31EyQ+Yvxpg8XinNGobxXM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/side-drawer-directives.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jxgYPBIa7cPJvSsC7FEedBblbbo=
+			</data>
+			<key>hash2</key>
+			<data>
+			/WDyyTdkPkRvMD8+eWo9J0A7/11azEWu4wPbMV01H/M=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/drawerpage/drawerpage-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zjzmDZUGYvBtV25ljVnVM2H+DoI=
+			</data>
+			<key>hash2</key>
+			<data>
+			q8c62FosP+pg65y9KJBliqJYFZNjR7upDD+cFuORS9g=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/drawerpage/drawerpage.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lZWSn2in0A3688Jr/Axgfrr/sdA=
+			</data>
+			<key>hash2</key>
+			<data>
+			vLtfjwduHh92BUrCUTIdydJvEcNFf8hqaI6hVam/CCg=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/drawerpage/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rW7alcibK9nZC87acTUCuKcui5Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			pcn6euWj9NVKpPjc/G7GVlpYsGZW1bQgXYsSkGx25PY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/drawerpage/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/4XxbsUGeNgqM9NEIeV3RT66YLE=
+			</data>
+			<key>hash2</key>
+			<data>
+			aqWfscbbZsDpVQTqxafxaGMI6dfrtjQp/TjR0uiv0F0=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vN/39fuvuxC2Rfd4J8ULQ19zwGo=
+			</data>
+			<key>hash2</key>
+			<data>
+			umJNpgHAC9J8ZsQnaOlp+AbXh76ZhfT0qYeMYM3L7mw=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ioq4R6C3uz4y4TViY+uxIZutq6E=
+			</data>
+			<key>hash2</key>
+			<data>
+			lsZBtgxoZruTc8/TeNzMRaR71zGPKtPt7nT3V2RwRnk=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/sidedrawer-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lTnB4kybF/Hvk8ohUoTtZErx81E=
+			</data>
+			<key>hash2</key>
+			<data>
+			q+zMwrFWxV1mBZHHeRkyTJkJJ2PJSQg0gvTVo3ddgnc=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/sidedrawer-ios-map.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+baOrS579xTHKqX1soE8eMKImEw=
+			</data>
+			<key>hash2</key>
+			<data>
+			Yol9s8rsKMv1TqAMct9pl/qnT8cgPe57lrYhkc8dLEM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/sidedrawer.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X6hv9DO0bAowxygR5Huna7G8ik8=
+			</data>
+			<key>hash2</key>
+			<data>
+			pFM5wbkQZH59tAMhYpG3cPai5yM4AGx2J2gy8pk2b94=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/platforms/android/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

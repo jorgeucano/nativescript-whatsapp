@@ -1,19 +1,15 @@
 <ActionBar class="action-bar">
     <Label textWrap="true" text="{{mockChat[0].nombre}}"></Label>
 </ActionBar>
-<FlexboxLayout>
-    <FlexboxLayout heigth="22">
-        <ListView [items]="mockChat[0].dialogo">
-            <template let-item="item" let-i="index" let-odd="odd" let-even="event">
-                <StackLayout class="listadoChat">
-                    <Label class="labelListadoChat" [text]="item.texto"></Label>
-                </StackLayout>
-            </template>
-        </ListView>
-    </FlexboxLayout>
-    <FlexboxLayout>
-        <TextField class="chatAdd" hint="Chat" keyboardType="text" [(ngModel)]="texto"
-                autocorrect="true" autocapitalizationType="true"></TextField>
-        <Button text="Enviar" (tap)="addText()"></Button>
-    </FlexboxLayout>
-</FlexboxLayout>
+<StackLayout>
+<ListView class="listView90" [items]="mockChat[0].dialogo">
+    <template let-item="item" let-i="index" let-odd="odd" let-even="event">
+        <StackLayout class="listadoChat">
+            <Label class="labelListadoChat" [text]="item.texto"></Label>
+        </StackLayout>
+    </template>
+</ListView>
+<TextField class="chatAdd" hint="Chat" keyboardType="text" [(ngModel)]="texto"
+        autocorrect="true" autocapitalizationType="true"></TextField>
+<Button text="Enviar" (tap)="addText()"></Button>
+</StackLayout>

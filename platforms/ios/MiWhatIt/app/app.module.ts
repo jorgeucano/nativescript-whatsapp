@@ -1,5 +1,6 @@
 import { NgModule, NO_ERRORS_SCHEMA } from "@angular/core";
 import { NativeScriptModule } from "nativescript-angular/platform";
+import { NativeScriptFormsModule } from "nativescript-angular/forms";
 
 //router
 import { router } from './shared/router';
@@ -12,8 +13,20 @@ import { CreateUserComponent } from './login/create.user.component';
 import { ChatListadoComponent } from './chats/listado.component';
 import { ChatComponent } from './chat/chat.component';
 
-//import { TNSFancyAlert, TNSFancyAlertButton } from 'nativescript-fancyalert';
 
+import firebase = require("nativescript-plugin-firebase");
+
+firebase.init({
+  // Optionally pass in properties for database, authentication and cloud messaging,
+  // see their respective docs.
+}).then(
+  (instance) => {
+    console.log("firebase.init done");
+  },
+  (error) => {
+    console.log("firebase.init error: " + error);
+  }
+);
 
 @NgModule({
     declarations: [
@@ -26,6 +39,7 @@ import { ChatComponent } from './chat/chat.component';
     bootstrap: [AppComponent],
     imports: [
             NativeScriptModule,
+            NativeScriptFormsModule,
             NativeScriptRouterModule,
             NativeScriptRouterModule.forRoot(router)
             ],

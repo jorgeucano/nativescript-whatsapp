@@ -7,6 +7,7 @@ var ChatListadoComponent = (function () {
     }
     ChatListadoComponent.prototype.ngOnInit = function () {
         this.mockChat = [{
+                "id": 1,
                 "nombre": "Grupo de chat de nativeScript",
                 "usuarios": {
                     "usuario_1": "jorgeucano",
@@ -25,6 +26,7 @@ var ChatListadoComponent = (function () {
                 }
             },
             {
+                "id": 2,
                 "nombre": "otro chat",
                 "usuarios": {
                     "usuario_1": "jorgeucano",
@@ -43,6 +45,7 @@ var ChatListadoComponent = (function () {
                 }
             },
             {
+                "id": 3,
                 "nombre": "Jorge CAno",
                 "usuarios": {
                     "usuario_1": "jorgeucano",
@@ -61,6 +64,7 @@ var ChatListadoComponent = (function () {
                 }
             },
             {
+                "id": 4,
                 "nombre": "nativescript",
                 "usuarios": {
                     "usuario_1": "jorgeucano",
@@ -80,14 +84,8 @@ var ChatListadoComponent = (function () {
             }];
         console.dir(this.mockChat);
     };
-    ChatListadoComponent.prototype.login = function () {
-        this.routerExt.navigate(["/listadoChat"], {
-            transition: {
-                name: "flip",
-                duration: 500,
-                curve: "linear"
-            }
-        });
+    ChatListadoComponent.prototype.elegirChat = function (id) {
+        this.routerExt.navigate(["/chat", id]);
     };
     ChatListadoComponent = __decorate([
         core_1.Component({

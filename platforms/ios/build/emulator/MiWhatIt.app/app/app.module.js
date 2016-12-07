@@ -9,6 +9,8 @@ var app_component_1 = require("./app.component");
 var login_component_1 = require("./login/login.component");
 var create_user_component_1 = require('./login/create.user.component');
 var listado_component_1 = require('./chats/listado.component');
+var chat_component_1 = require('./chat/chat.component');
+//import { TNSFancyAlert, TNSFancyAlertButton } from 'nativescript-fancyalert';
 var AppModule = (function () {
     function AppModule() {
     }
@@ -18,7 +20,8 @@ var AppModule = (function () {
                 app_component_1.AppComponent,
                 login_component_1.LoginComponent,
                 create_user_component_1.CreateUserComponent,
-                listado_component_1.ChatListadoComponent
+                listado_component_1.ChatListadoComponent,
+                chat_component_1.ChatComponent
             ],
             bootstrap: [app_component_1.AppComponent],
             imports: [

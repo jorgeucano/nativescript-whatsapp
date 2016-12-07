@@ -17,6 +17,7 @@
     "querystring": true,
     "url": true,
     "nativescript-fancyalert": true,
+    "nativescript-plugin-firebase": true,
     "nativescript-theme-core": true,
     "tns-core-modules": true,
     "tns-core-modules-widgets": true

@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		1C648069AF81458BABB47904 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E37D0CA9CF634C4C919EFB0C /* LaunchScreen.storyboard */; };
 		311A3CDC17584BFAA0E9BDC3 /* TNSWidgets.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76AA7859311E468395962C43 /* TNSWidgets.framework */; };
@@ -16,6 +15,8 @@
 		BD457B2ECFAC455BA41AF425 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89DFAE2DE6A4487BAEBDDD49 /* Assets.xcassets */; };
 		CD45EE7C18DC2D5800FB50C0 /* app in Resources */ = {isa = PBXBuildFile; fileRef = CD45EE7A18DC2D5800FB50C0 /* app */; };
 		CD62955D1BB2678900AE3A93 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CD62955C1BB2678900AE3A93 /* main.m */; };
+		B512C2F388154E1F8032ED25 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = AC3F4311438C42A78743C1D9 /* GoogleService-Info.plist */; };
+		F0B0A5D34616475C99849AB7 /* MiWhatIt.entitlements in Resources */ = {isa = PBXBuildFile; fileRef = 6A94205A2D984078870B6A84 /* MiWhatIt.entitlements */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -48,6 +49,8 @@
 		CDD59A271BB43B5D00EC2671 /* build-release.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "build-release.xcconfig"; sourceTree = "<group>"; };
 		CDF4743E1BA4855C0087EA85 /* build.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = build.xcconfig; sourceTree = "<group>"; };
 		E37D0CA9CF634C4C919EFB0C /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = unknown; name = LaunchScreen.storyboard; path = MiWhatIt/Resources/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AC3F4311438C42A78743C1D9 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = unknown; name = "GoogleService-Info.plist"; path = "MiWhatIt/Resources/GoogleService-Info.plist"; sourceTree = "<group>"; fileEncoding = 4; };
+		6A94205A2D984078870B6A84 /* MiWhatIt.entitlements */ = {isa = PBXFileReference; lastKnownFileType = unknown; name = "MiWhatIt.entitlements"; path = "MiWhatIt/Resources/MiWhatIt.entitlements"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +131,8 @@
 				89DFAE2DE6A4487BAEBDDD49 /* Assets.xcassets */,
 				E37D0CA9CF634C4C919EFB0C /* LaunchScreen.storyboard */,
 				A14E224A5452445F8299D82A /* build.xcconfig */,
+				AC3F4311438C42A78743C1D9 /* GoogleService-Info.plist */,
+				6A94205A2D984078870B6A84 /* MiWhatIt.entitlements */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -196,6 +201,8 @@
 				BD457B2ECFAC455BA41AF425 /* Assets.xcassets in Resources */,
 				1C648069AF81458BABB47904 /* LaunchScreen.storyboard in Resources */,
 				6A3E17810C2847C9A64580B1 /* build.xcconfig in Resources */,
+				B512C2F388154E1F8032ED25 /* GoogleService-Info.plist in Resources */,
+				F0B0A5D34616475C99849AB7 /* MiWhatIt.entitlements in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -351,6 +358,7 @@
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 arm64";
+				CODE_SIGN_ENTITLEMENTS = "MiWhatIt/Resources/MiWhatIt.entitlements";
 			};
 			name = Debug;
 		};
@@ -386,6 +394,7 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VALID_ARCHS = "armv7 arm64";
+				CODE_SIGN_ENTITLEMENTS = "MiWhatIt/Resources/MiWhatIt.entitlements";
 			};
 			name = Release;
 		};
@@ -412,6 +421,7 @@
 				PRODUCT_NAME = MiWhatIt;
 				VALID_ARCHS = "armv7 arm64";
 				WRAPPER_EXTENSION = app;
+				CODE_SIGN_ENTITLEMENTS = "MiWhatIt/Resources/MiWhatIt.entitlements";
 			};
 			name = Debug;
 		};
@@ -434,6 +444,7 @@
 				PRODUCT_NAME = MiWhatIt;
 				VALID_ARCHS = "armv7 arm64";
 				WRAPPER_EXTENSION = app;
+				CODE_SIGN_ENTITLEMENTS = "MiWhatIt/Resources/MiWhatIt.entitlements";
 			};
 			name = Release;
 		};

@@ -1,18 +1,26 @@
 "use strict";
 var core_1 = require('@angular/core');
 var router_1 = require('nativescript-angular/router');
+var firebase = require('nativescript-plugin-firebase');
 var CreateUserComponent = (function () {
     function CreateUserComponent(routerExt) {
         this.routerExt = routerExt;
     }
     CreateUserComponent.prototype.create = function () {
-        alert("Create");
-        this.routerExt.navigate(["/login"], {
-            transition: {
-                name: "flip",
-                duration: 500,
-                curve: "linear"
-            }
+        var _this = this;
+        firebase.createUser({
+            email: this.email,
+            password: this.password
+        }).then(function (result) {
+            _this.routerExt.navigate(["/chatListado"], {
+                transition: {
+                    name: "flip",
+                    duration: 500,
+                    curve: "linear"
+                }
+            });
+        }, function (errorMessage) {
+            alert('error: ' + errorMessage);
         });
     };
     CreateUserComponent = __decorate([

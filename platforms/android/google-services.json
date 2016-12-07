@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1048077916191",
+    "firebase_url": "https://miwhatit.firebaseio.com",
+    "project_id": "miwhatit",
+    "storage_bucket": "miwhatit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048077916191:android:44a798b4eb4cd5ef",
+        "android_client_info": {
+          "package_name": "MiWhatIt.jorgeucano.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048077916191-9f1fclhbbh9koel9qf1cn5lcsfr3f2cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIrFxrVvUJC_8gF6e3PdmB5oSTJK0IIbI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

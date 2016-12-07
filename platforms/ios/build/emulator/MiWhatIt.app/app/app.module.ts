@@ -10,12 +10,18 @@ import { AppComponent } from "./app.component";
 import { LoginComponent } from "./login/login.component";
 import { CreateUserComponent } from './login/create.user.component';
 import { ChatListadoComponent } from './chats/listado.component';
+import { ChatComponent } from './chat/chat.component';
+
+//import { TNSFancyAlert, TNSFancyAlertButton } from 'nativescript-fancyalert';
+
+
 @NgModule({
     declarations: [
             AppComponent,
             LoginComponent,
             CreateUserComponent,
-            ChatListadoComponent
+            ChatListadoComponent,
+            ChatComponent
         ],
     bootstrap: [AppComponent],
     imports: [

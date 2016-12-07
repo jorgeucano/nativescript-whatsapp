@@ -17,6 +17,7 @@ export class ChatListadoComponent{
 
     ngOnInit(){
         this.mockChat = [{
+            "id": 1, 
             "nombre": "Grupo de chat de nativeScript",
             "usuarios": {
                 "usuario_1": "jorgeucano",
@@ -35,6 +36,7 @@ export class ChatListadoComponent{
             }
         },
         {
+            "id": 2,
             "nombre": "otro chat",
             "usuarios": {
                 "usuario_1": "jorgeucano",
@@ -53,6 +55,7 @@ export class ChatListadoComponent{
             }
         },
         {
+            "id": 3,
             "nombre": "Jorge CAno",
             "usuarios": {
                 "usuario_1": "jorgeucano",
@@ -71,6 +74,7 @@ export class ChatListadoComponent{
             }
         },
         {
+            "id": 4,
             "nombre": "nativescript",
             "usuarios": {
                 "usuario_1": "jorgeucano",
@@ -91,14 +95,8 @@ export class ChatListadoComponent{
         console.dir(this.mockChat);
     }
 
-    login(){
-        this.routerExt.navigate(["/listadoChat"],{
-            transition:{
-                name: "flip",
-                duration:500,
-                curve:"linear"
-            }
-        });
+    elegirChat(id){
+        this.routerExt.navigate(["/chat", id]);
     }
 
 }

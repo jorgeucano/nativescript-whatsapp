@@ -1,10 +1,9 @@
 <StackLayout>
     <Label class="titulo" text="Listado de Chats"></Label>
-    <Label class="titulo" text="{{mockChat}}"></Label>
     <ListView [items]="mockChat">
         <template let-item="item" let-i="index" let-odd="odd" let-even="event">
-            <StackLayout>
-                <Label [text]="item.nombre"></Label>
+            <StackLayout class="listadoChat">
+                <Label class="labelListadoChat" (tap)="elegirChat(item.id)" [text]="item.nombre"></Label>
             </StackLayout>
         </template>
     </ListView>

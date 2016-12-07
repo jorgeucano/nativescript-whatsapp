@@ -4,5 +4,27 @@ target "MiWhatIt" do
 # Begin Podfile - /Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/node_modules/nativescript-fancyalert/platforms/ios/Podfile 
  pod 'SCLAlertView-Objective-C' 
  # End Podfile 
+# Begin Podfile - /Users/jorgeucano/Documents/cursos/nativescript/code/MiWhatIt/node_modules/nativescript-plugin-firebase/platforms/ios/Podfile 
+ pod 'Firebase', '~> 3.9.0'
+pod 'Firebase/Database'
+pod 'Firebase/Auth'
+pod 'Firebase/Crash'
+
+# Uncomment if you want to enable Remote Config
+pod 'Firebase/RemoteConfig'
+
+# Uncomment if you want to enable FCM (Firebase Cloud Messaging)
+pod 'Firebase/Messaging'
+
+# Uncomment if you want to enable Firebase Storage
+pod 'Firebase/Storage'
+
+# Uncomment if you want to enable Facebook Authentication
+pod 'FBSDKCoreKit'
+pod 'FBSDKLoginKit'
+
+# Uncomment if you want to enable Google Authentication
+pod 'GoogleSignIn' 
+ # End Podfile 
 
 end

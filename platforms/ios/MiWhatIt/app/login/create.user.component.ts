@@ -2,6 +2,8 @@ import { Component } from '@angular/core';
 
 import { RouterExtensions } from 'nativescript-angular/router';
 
+import firebase = require('nativescript-plugin-firebase');
+
 @Component({
     selector:'create-user',
     template:`
@@ -18,16 +20,29 @@ import { RouterExtensions } from 'nativescript-angular/router';
 })
 export class CreateUserComponent{
 
+    email:string;
+    password:string;
+
     constructor(private routerExt: RouterExtensions ){}
 
         create(){
-            alert("Create");
-            this.routerExt.navigate(["/login"],{
-                transition:{
-                    name: "flip",
-                    duration:500,
-                    curve:"linear"
+            firebase.createUser({
+                email:this.email,
+                password: this.password
+            }).then(
+                (result)=>{
+                    this.routerExt.navigate(["/chatListado"],{
+                        transition:{
+                            name: "flip",
+                            duration:500,
+                            curve:"linear"
+                        }
+                    });
+                },
+                (errorMessage)=>{
+                    alert('error: ' + errorMessage);
                 }
-            });
+            );
+            
         }
 }

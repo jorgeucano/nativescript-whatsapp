@@ -24,3 +24,12 @@ refer to http://docs.nativescript.org/ui/theme.
     font-size: 30;
     text-align: center;
 }
+
+.labelListadoChat{
+    text-align: left;
+    color: black;
+    padding: 10;
+}
+.listadoChat{
+    background-color:grey;
+}

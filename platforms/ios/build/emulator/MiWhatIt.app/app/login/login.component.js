@@ -1,11 +1,13 @@
 "use strict";
 var core_1 = require('@angular/core');
 var router_1 = require('nativescript-angular/router');
+var nativescript_fancyalert_1 = require('nativescript-fancyalert');
 var LoginComponent = (function () {
     function LoginComponent(routerExt) {
         this.routerExt = routerExt;
     }
     LoginComponent.prototype.login = function () {
+        nativescript_fancyalert_1.TNSFancyAlert.showSuccess('Success!', 'Fancy alerts are nice.', 'Yes they are!');
         this.routerExt.navigate(["/chatListado"], {
             transition: {
                 name: "flip",

@@ -44,6 +44,6 @@
       <string>UIInterfaceOrientationLandscapeRight</string>
     </array>
     <key>CFBundleIdentifier</key>
-    <string>org.nativescript.MiWhatIt</string>
+    <string>MiWhatIt.jorgeucano.com</string>
   </dict>
 </plist>

@@ -4,7 +4,7 @@
   "readme": "NativeScript Application",
   "repository": "<fill-your-repository-here>",
   "nativescript": {
-    "id": "org.nativescript.MiWhatIt",
+    "id": "MiWhatIt.jorgeucano.com",
     "tns-ios": {
       "version": "2.4.0"
     },
@@ -23,6 +23,7 @@
     "@angular/router": "3.2.1",
     "nativescript-angular": "1.2.0",
     "nativescript-fancyalert": "^1.1.0",
+    "nativescript-plugin-firebase": "^3.8.4",
     "nativescript-theme-core": "^0.2.1",
     "reflect-metadata": "~0.1.8",
     "rxjs": "5.0.0-beta.12",

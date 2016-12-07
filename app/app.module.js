@@ -1,6 +1,7 @@
 "use strict";
 var core_1 = require("@angular/core");
 var platform_1 = require("nativescript-angular/platform");
+var forms_1 = require("nativescript-angular/forms");
 //router
 var router_1 = require('./shared/router');
 var router_2 = require('nativescript-angular/router');
@@ -10,7 +11,12 @@ var login_component_1 = require("./login/login.component");
 var create_user_component_1 = require('./login/create.user.component');
 var listado_component_1 = require('./chats/listado.component');
 var chat_component_1 = require('./chat/chat.component');
-//import { TNSFancyAlert, TNSFancyAlertButton } from 'nativescript-fancyalert';
+var firebase = require("nativescript-plugin-firebase");
+firebase.init({}).then(function (instance) {
+    console.log("firebase.init done");
+}, function (error) {
+    console.log("firebase.init error: " + error);
+});
 var AppModule = (function () {
     function AppModule() {
     }
@@ -26,6 +32,7 @@ var AppModule = (function () {
             bootstrap: [app_component_1.AppComponent],
             imports: [
                 platform_1.NativeScriptModule,
+                forms_1.NativeScriptFormsModule,
                 router_2.NativeScriptRouterModule,
                 router_2.NativeScriptRouterModule.forRoot(router_1.router)
             ],

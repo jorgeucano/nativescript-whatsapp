@@ -3,6 +3,8 @@ var core_1 = require('@angular/core');
 var router_1 = require('nativescript-angular/router');
 var nativescript_fancyalert_1 = require('nativescript-fancyalert');
 var firebase = require('nativescript-plugin-firebase');
+var cameraModule = require("camera");
+var imageModule = require("ui/image");
 var LoginComponent = (function () {
     function LoginComponent(routerExt) {
         this.routerExt = routerExt;
@@ -20,6 +22,13 @@ var LoginComponent = (function () {
             });
         }, function (error) {
             nativescript_fancyalert_1.TNSFancyAlert.showSuccess('Login!', error, 'Entrar!');
+        });
+    };
+    LoginComponent.prototype.takePicture = function () {
+        cameraModule.takePicture().then(function (picture) {
+            console.log("Result is an image source instance");
+            var image = new imageModule.Image();
+            image.imageSource = picture;
         });
     };
     LoginComponent.prototype.login = function () {

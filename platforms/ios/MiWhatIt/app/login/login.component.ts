@@ -5,6 +5,8 @@ import { TNSFancyAlert, TNSFancyAlertButton } from 'nativescript-fancyalert';
 
 import firebase = require('nativescript-plugin-firebase');
 
+import cameraModule = require("camera");
+import imageModule = require("ui/image");
 
 @Component({
     selector:'login',
@@ -34,6 +36,14 @@ export class LoginComponent{
                 TNSFancyAlert.showSuccess('Login!', error, 'Entrar!');
             }
         )
+    }
+
+    takePicture(){
+        cameraModule.takePicture().then(picture => {
+            console.log("Result is an image source instance");
+            var image = new imageModule.Image();
+            image.imageSource = picture;
+        });
     }
 
 

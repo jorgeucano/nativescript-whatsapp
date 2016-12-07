@@ -3,7 +3,6 @@ import { RouterExtensions } from 'nativescript-angular/router';
 
 import firebase = require('nativescript-plugin-firebase');
 
-
 @Component({
     selector:'chat-listado',
     templateUrl: 'chats/listado.component.html',
@@ -25,7 +24,7 @@ export class ChatListadoComponent{
         }, "/chats");
 
 
-        firebase.push(
+       /* firebase.push(
             '/chats',
             {
                 "id": 1, 
@@ -61,7 +60,7 @@ export class ChatListadoComponent{
             function (result) {
                 console.log("created key: " + result.key);
             }
-        );
+        );*/
 
     }
 
@@ -83,7 +82,6 @@ export class ChatListadoComponent{
 
 
     ngOnInit(){
-       
     }
 
     elegirChat(id){

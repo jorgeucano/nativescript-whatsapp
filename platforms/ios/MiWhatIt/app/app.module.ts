@@ -15,6 +15,7 @@ import { ChatComponent } from './chat/chat.component';
 
 
 import firebase = require("nativescript-plugin-firebase");
+import cameraModule = require("camera");
 
 firebase.init({
   // Optionally pass in properties for database, authentication and cloud messaging,

@@ -86,11 +86,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		iiouH7fhgaDNJhucSQF/CujnjW8=
+		xaWuKJkZQuIhd4oeyxQSBDIJfQ0=
 		</data>
 		<key>Frameworks/Bolts.framework/Bolts</key>
 		<data>
-		Q2eZ6NH0q95173Z+FhRSUWwL1EY=
+		vBe2ArUiEbcYmisT3OxzrIdyv08=
 		</data>
 		<key>Frameworks/Bolts.framework/Info.plist</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Frameworks/FBSDKCoreKit.framework/FBSDKCoreKit</key>
 		<data>
-		jvAxmBe1e5vtV/0UnAr/PqawVAA=
+		ekMPNt19Kl5OocQ3/MsHXXaPUEs=
 		</data>
 		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/af.lproj/FacebookSDK.strings</key>
 		<dict>
@@ -510,7 +510,7 @@
 		</data>
 		<key>Frameworks/FBSDKLoginKit.framework/FBSDKLoginKit</key>
 		<data>
-		DmZwLvUPaB/SC3ZVWJoi73qgiVc=
+		FNeK9IQXMXhk2quLRpjRCSEqBsw=
 		</data>
 		<key>Frameworks/FBSDKLoginKit.framework/Info.plist</key>
 		<data>
@@ -522,7 +522,7 @@
 		</data>
 		<key>Frameworks/GTMOAuth2.framework/GTMOAuth2</key>
 		<data>
-		Myf3VoaOZifeBDuRFEA5lAluxAo=
+		09JwNleoIbtw3AFio5Lq5zAolKg=
 		</data>
 		<key>Frameworks/GTMOAuth2.framework/GTMOAuth2ViewTouch.nib</key>
 		<data>
@@ -538,7 +538,7 @@
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<data>
-		mdw8f1QkskMI7ypol4vjSV45cbA=
+		24vb0bZhGEcDjnwaDfblaC50Q+M=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<data>
@@ -550,7 +550,7 @@
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac</key>
 		<data>
-		DRN4Rexvp7uc8Dhkgi6yjv9yEkM=
+		m7txdAbFPCHdlKTiOv0lWfV3ffA=
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
 		<data>
@@ -578,7 +578,7 @@
 		</data>
 		<key>Frameworks/SCLAlertView_Objective_C.framework/SCLAlertView_Objective_C</key>
 		<data>
-		w+7rzmQ/bFhKOiO/hwt81OO6i1o=
+		rK1MVmRjPZ2UZgkZfvCqtqsvS5c=
 		</data>
 		<key>Frameworks/SCLAlertView_Objective_C.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -958,7 +958,7 @@
 		</dict>
 		<key>Info.plist</key>
 		<data>
-		0wi5bubfaqLCF+YvKBuboY15sD8=
+		3BWkSPpNAJbZ/LCgwHzw13ImMyM=
 		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
@@ -1026,7 +1026,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		Y9meE9V7m2qjxLO3OgG3b2LPHQU=
+		HxgoOvs311MzSKhzM2qwb4VjMqM=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -1034,7 +1034,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		U1cDV/Py5DmvwPF1Ewyvs5zZffY=
+		KTPlO5dvPqH8DfWsiNtkWDWDuTY=
 		</data>
 		<key>MiWhatIt.entitlements</key>
 		<data>
@@ -1066,15 +1066,15 @@
 		</data>
 		<key>app/app.module.js</key>
 		<data>
-		De4UAKumprYvHiAT+UreWiXvz9I=
+		4fghyUR9WVF7pvsdrGwZVRhZj2s=
 		</data>
 		<key>app/app.module.js.map</key>
 		<data>
-		RQGxQ+MYSkJb6xND2BXbL5R+2OQ=
+		9T/0ucTa8ECLLglmujjqV24bJCc=
 		</data>
 		<key>app/app.module.ts</key>
 		<data>
-		VwsfVPNLAyiDPs/rFtg8ZAjGE7Y=
+		0pCPeYoUcwjqoo1twB9w7gTbGIs=
 		</data>
 		<key>app/chat/chat.component.html</key>
 		<data>
@@ -1098,31 +1098,31 @@
 		</data>
 		<key>app/chats/listado.component.html</key>
 		<data>
-		WAROzC66qQQOIB9MK5yEG3E4gqQ=
+		iLonnAwbFF6sKIymObIhRuebUC0=
 		</data>
 		<key>app/chats/listado.component.js</key>
 		<data>
-		OPOPyVk/V7OQ/JdeRCPVPiENwio=
+		HlZnHHQhxoBcZ/IfL8ZZYMU2mWc=
 		</data>
 		<key>app/chats/listado.component.js.map</key>
 		<data>
-		peos8GKgkGvk2+mwejzLC3xrtdM=
+		upJi4GLwsnZZVhbpf5Hm5NWngVw=
 		</data>
 		<key>app/chats/listado.component.ts</key>
 		<data>
-		GgE0DCI+PeRtQhwBeStLM4ceUsk=
+		Yki12VS3B0ZalZLCYhqhvd8A3BQ=
 		</data>
 		<key>app/login/create.user.component.js</key>
 		<data>
-		2bGc00ilAl46hbT029o0c+x3wkk=
+		PEUxoLkdisHo1+vdwGFGFHLklWE=
 		</data>
 		<key>app/login/create.user.component.js.map</key>
 		<data>
-		KbguxMKvQHTCySxvjKb6BO4C5S4=
+		z1FtADACliYTm6NrLdI4z+75Hoo=
 		</data>
 		<key>app/login/create.user.component.ts</key>
 		<data>
-		n2WBcErnPDnoRRSn8xoIfMH9LF4=
+		cpJzVarv8Fd1cG8AZMyYCeAboak=
 		</data>
 		<key>app/login/login.component.css</key>
 		<data>
@@ -1134,15 +1134,15 @@
 		</data>
 		<key>app/login/login.component.js</key>
 		<data>
-		dV/abtM0LI4AX9ZttGRROIHQZhM=
+		w8f1EPpnKQ92O4DHf8m5ITns+nI=
 		</data>
 		<key>app/login/login.component.js.map</key>
 		<data>
-		Su5BWjrkLEKD3tAsRLgiQqQwoWk=
+		Bu29tQMAEdSpBpCg5HLEirAm+mM=
 		</data>
 		<key>app/login/login.component.ts</key>
 		<data>
-		MBL/QKB5Z7JaNES0LaMrk2FsTyc=
+		BI1vbnAEdajhJmMbsWjinFGVUZs=
 		</data>
 		<key>app/main.aot.ts</key>
 		<data>
@@ -8019,6 +8019,34 @@
 		<key>app/tns_modules/nativescript-angular/zone.js/dist/zone-nativescript.js</key>
 		<data>
 		skwBeAd0ZbVFH+t5yYUq7d2R0FI=
+		</data>
+		<key>app/tns_modules/nativescript-camera/README.md</key>
+		<data>
+		7hlYJ2Do/5QdAU+zI2L0si0TgJY=
+		</data>
+		<key>app/tns_modules/nativescript-camera/index.d.ts</key>
+		<data>
+		djapT0Zi8z06T9Jxy4e8Ba6/Pn0=
+		</data>
+		<key>app/tns_modules/nativescript-camera/nativescript-camera-common.js</key>
+		<data>
+		kAOqb/W136szRWIMCNlwzK/ZOU8=
+		</data>
+		<key>app/tns_modules/nativescript-camera/nativescript-camera.d.ts</key>
+		<data>
+		9vP3FESxa8Fbirx9xP25bn0o7Ws=
+		</data>
+		<key>app/tns_modules/nativescript-camera/nativescript-camera.js</key>
+		<data>
+		mD/glfRvAdrZOLHFsySJu+Zh2wU=
+		</data>
+		<key>app/tns_modules/nativescript-camera/package.json</key>
+		<data>
+		CBtlrDDR6lh5KSLn6zM0nLOQSc4=
+		</data>
+		<key>app/tns_modules/nativescript-camera/references.d.ts</key>
+		<data>
+		ivu37aYxN9fE+Va3t6OOUUHylvw=
 		</data>
 		<key>app/tns_modules/nativescript-fancyalert/.npmignore</key>
 		<data>
@@ -15524,22 +15552,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iiouH7fhgaDNJhucSQF/CujnjW8=
+			xaWuKJkZQuIhd4oeyxQSBDIJfQ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			YNecOgZ5G/pAZU6oOi9Y8dN1M2qLLeSJ/OKanBoNjlA=
+			fFDT41Zy0tiqaR8QW6SnNCiP6Dj/cLBexVKnG1D2ghk=
 			</data>
 		</dict>
 		<key>Frameworks/Bolts.framework/Bolts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Q2eZ6NH0q95173Z+FhRSUWwL1EY=
+			vBe2ArUiEbcYmisT3OxzrIdyv08=
 			</data>
 			<key>hash2</key>
 			<data>
-			rJC+RRG7HREohzBPWAmEf9o6htjepqKKBhwTB9V4puE=
+			jrhAMwMqPseFhq7ZlDirv2W05enwJHtIHyeIM1PPpxY=
 			</data>
 		</dict>
 		<key>Frameworks/Bolts.framework/Info.plist</key>
@@ -15568,11 +15596,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jvAxmBe1e5vtV/0UnAr/PqawVAA=
+			ekMPNt19Kl5OocQ3/MsHXXaPUEs=
 			</data>
 			<key>hash2</key>
 			<data>
-			l5/nwxGYJhBULSFEI6v/oVeYwIB+MVGdrHO8sgi8GCk=
+			Uxe9V7PSEb4Gz8Thg1XqYHDq6XFhmdULLKzEvu3Ip9o=
 			</data>
 		</dict>
 		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/af.lproj/FacebookSDK.strings</key>
@@ -16173,11 +16201,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DmZwLvUPaB/SC3ZVWJoi73qgiVc=
+			FNeK9IQXMXhk2quLRpjRCSEqBsw=
 			</data>
 			<key>hash2</key>
 			<data>
-			K+qd2F+0oTcJ31gNJRQ5xptTUiM9SOjmpniDMq8i5ks=
+			SDWO3ZEx4E4O3SYfOUUNmqcQxW2+CciBoZJGp39Q+ak=
 			</data>
 		</dict>
 		<key>Frameworks/FBSDKLoginKit.framework/Info.plist</key>
@@ -16206,11 +16234,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Myf3VoaOZifeBDuRFEA5lAluxAo=
+			09JwNleoIbtw3AFio5Lq5zAolKg=
 			</data>
 			<key>hash2</key>
 			<data>
-			iux5uQsiiYfpVCjAhwqvh7MHbzk1z0gPpC/gHfO2QLo=
+			Y14o6kH0hB5kGvbKWFtibLaAOwrHGvzMqTloqkv0HVQ=
 			</data>
 		</dict>
 		<key>Frameworks/GTMOAuth2.framework/GTMOAuth2ViewTouch.nib</key>
@@ -16250,11 +16278,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mdw8f1QkskMI7ypol4vjSV45cbA=
+			24vb0bZhGEcDjnwaDfblaC50Q+M=
 			</data>
 			<key>hash2</key>
 			<data>
-			WTxxa/nZM7x+NMBMhGjKzdb4B7WmdRcpcY54vSNCNvU=
+			F5ZaLKQiFVg8nIWADh8/vRt4DskrGLJcPh9QeQjucR4=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
@@ -16283,11 +16311,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DRN4Rexvp7uc8Dhkgi6yjv9yEkM=
+			m7txdAbFPCHdlKTiOv0lWfV3ffA=
 			</data>
 			<key>hash2</key>
 			<data>
-			pEfTlQ9brhdUPL2o4gU0/qIxBdcr9flkkvQbnwlpWyc=
+			YUfWUmlEBdOVcdyxzrn3eU4OiYFPMP8hXEOpX7Rculw=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
@@ -16360,11 +16388,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			w+7rzmQ/bFhKOiO/hwt81OO6i1o=
+			rK1MVmRjPZ2UZgkZfvCqtqsvS5c=
 			</data>
 			<key>hash2</key>
 			<data>
-			lEQk3wcc6+yFITHci2KD/trDtMui8LCOpZRjefN4uS4=
+			9Jkr4ys/romXQOBJeHIK20u3rc0Nrir8mkBPX65mYbE=
 			</data>
 		</dict>
 		<key>Frameworks/SCLAlertView_Objective_C.framework/_CodeSignature/CodeResources</key>
@@ -17158,11 +17186,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Y9meE9V7m2qjxLO3OgG3b2LPHQU=
+			HxgoOvs311MzSKhzM2qwb4VjMqM=
 			</data>
 			<key>hash2</key>
 			<data>
-			li5wHUa66F1+wDMXVDOK+eRTgJJFSXIQJRs7LE9VBso=
+			OKRuOuWcRSlbkBh6/erIyMaszzXD5amd75mbNtrumGc=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -17180,11 +17208,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			U1cDV/Py5DmvwPF1Ewyvs5zZffY=
+			KTPlO5dvPqH8DfWsiNtkWDWDuTY=
 			</data>
 			<key>hash2</key>
 			<data>
-			LW0tgbKXGGzCVTflhmJDzxVoFCVrbMw0nEeX0jSWPjU=
+			hfLeCLz9N3k2HgRBb4IA/x6WYej4gdi+2q5Mcv/gZvI=
 			</data>
 		</dict>
 		<key>MiWhatIt.entitlements</key>
@@ -17257,33 +17285,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			De4UAKumprYvHiAT+UreWiXvz9I=
+			4fghyUR9WVF7pvsdrGwZVRhZj2s=
 			</data>
 			<key>hash2</key>
 			<data>
-			0dILgPjl7ZkbMLwzQGEKcAlJK/5EbNQKk+8rYYQl+XI=
+			4JHjlxWQ15xgusaqL+n42FHW02rJwWaRGJoxfvSQSnU=
 			</data>
 		</dict>
 		<key>app/app.module.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RQGxQ+MYSkJb6xND2BXbL5R+2OQ=
+			9T/0ucTa8ECLLglmujjqV24bJCc=
 			</data>
 			<key>hash2</key>
 			<data>
-			iOjAVD0uHXSEXs5rVOcLWBURGj0+aM6jKen1q3CqnzA=
+			A6z4rnIyh36t5Evhcx/E4d3B3LVBMHRrBCMx0lctRhg=
 			</data>
 		</dict>
 		<key>app/app.module.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VwsfVPNLAyiDPs/rFtg8ZAjGE7Y=
+			0pCPeYoUcwjqoo1twB9w7gTbGIs=
 			</data>
 			<key>hash2</key>
 			<data>
-			D5k6MhKqWSJoYq7jpCGZnrcpfg2yDZ0r3EMFsPYLCKg=
+			HgVa2vd8RCNtwEe6Msj9NqaPQR8oeHKWhYilrdyIrSo=
 			</data>
 		</dict>
 		<key>app/chat/chat.component.html</key>
@@ -17345,77 +17373,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WAROzC66qQQOIB9MK5yEG3E4gqQ=
+			iLonnAwbFF6sKIymObIhRuebUC0=
 			</data>
 			<key>hash2</key>
 			<data>
-			WI6P7lOArfDpb9DbkSfbXHNRIUARXbr+jmUl+I1KUTs=
+			C8KgXKG/9sz4B5c22+DENa/F31KcCrEtKtau7x5Q7UE=
 			</data>
 		</dict>
 		<key>app/chats/listado.component.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OPOPyVk/V7OQ/JdeRCPVPiENwio=
+			HlZnHHQhxoBcZ/IfL8ZZYMU2mWc=
 			</data>
 			<key>hash2</key>
 			<data>
-			umYdqtDHF5U5IaaKHyXPTzKw/MckraSRqZhFl2pvHsQ=
+			FhxHJx1FpkePZr1pMifkuCsGqhCYB5tLee0OXzQOFCc=
 			</data>
 		</dict>
 		<key>app/chats/listado.component.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			peos8GKgkGvk2+mwejzLC3xrtdM=
+			upJi4GLwsnZZVhbpf5Hm5NWngVw=
 			</data>
 			<key>hash2</key>
 			<data>
-			QDqErcX0UYh8dpc/lRLjZ6usR8hMfL0QRgd7n6ua6bg=
+			Za9x7fC6mvvOPVl2vkjb3ZXXR3UJOxbR9T34js+xAPo=
 			</data>
 		</dict>
 		<key>app/chats/listado.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GgE0DCI+PeRtQhwBeStLM4ceUsk=
+			Yki12VS3B0ZalZLCYhqhvd8A3BQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			uP1AoPjCSCcw/0OYVReohPHKG6PXbmox9AtEo2pheHc=
+			tA4OTjabPVcPEXi8wyW7DBhjxqqMoYj0VqHZyAFkdQU=
 			</data>
 		</dict>
 		<key>app/login/create.user.component.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2bGc00ilAl46hbT029o0c+x3wkk=
+			PEUxoLkdisHo1+vdwGFGFHLklWE=
 			</data>
 			<key>hash2</key>
 			<data>
-			ymHbJH166r6+wkKkFJEkD9A//nRXVL2/h0kErG27R/Y=
+			TJhoOdgfuH3g2buF5dmOFaBUc7q3gCGk61JU7grT4n4=
 			</data>
 		</dict>
 		<key>app/login/create.user.component.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KbguxMKvQHTCySxvjKb6BO4C5S4=
+			z1FtADACliYTm6NrLdI4z+75Hoo=
 			</data>
 			<key>hash2</key>
 			<data>
-			uaAdr9urV9UnSQ/M7PE2uKcsNxZdZAGVGvMNk9xX9qM=
+			kEgl1mQAmbRzeZdhTghkWAVjqVnKjl8crGTE/y9sLts=
 			</data>
 		</dict>
 		<key>app/login/create.user.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			n2WBcErnPDnoRRSn8xoIfMH9LF4=
+			cpJzVarv8Fd1cG8AZMyYCeAboak=
 			</data>
 			<key>hash2</key>
 			<data>
-			yuhwr7vFzPTY83ujio9tA3iDdWChG+JzgAaFbBbSyoc=
+			vseAQlAmz0J30w60eQvOjsVsWPfFjwa8l/achWkf1RM=
 			</data>
 		</dict>
 		<key>app/login/login.component.css</key>
@@ -17444,33 +17472,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dV/abtM0LI4AX9ZttGRROIHQZhM=
+			w8f1EPpnKQ92O4DHf8m5ITns+nI=
 			</data>
 			<key>hash2</key>
 			<data>
-			C1laz9ZwSB0QQdnFtKDjBJd18DOVCl+pctL+zj/UIkg=
+			a+DGL/2WdQ2J0BW4pAnuPIyIr8c+L4tndrpn09jfIDI=
 			</data>
 		</dict>
 		<key>app/login/login.component.js.map</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Su5BWjrkLEKD3tAsRLgiQqQwoWk=
+			Bu29tQMAEdSpBpCg5HLEirAm+mM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ND3QKT1R2QoUl+NMQftutQ+PwqeGH7aG6ge1aq0/5L4=
+			cE8040DcWXytgNt5QOFbuegrrPjo1eCl1xW+CeGEp8A=
 			</data>
 		</dict>
 		<key>app/login/login.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MBL/QKB5Z7JaNES0LaMrk2FsTyc=
+			BI1vbnAEdajhJmMbsWjinFGVUZs=
 			</data>
 			<key>hash2</key>
 			<data>
-			muTUPukgfxr4AtmIjfg4pzeFqkc3yh2l4dHf1u2M5TQ=
+			hM4SPUNdr7i+owxBnOKD9RsaW2CR1p100B0ge0E995Q=
 			</data>
 		</dict>
 		<key>app/main.aot.ts</key>
@@ -36380,6 +36408,83 @@
 			<key>hash2</key>
 			<data>
 			gxBIxFjf8/07c6/mZI4E1B0vxXsBlVcDuZwCOv78iwk=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-camera/README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7hlYJ2Do/5QdAU+zI2L0si0TgJY=
+			</data>
+			<key>hash2</key>
+			<data>
+			EYRVS3Fnp6y+GFJUuWffalcK8GI3XaDrrEj+Ahp7X3w=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-camera/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			djapT0Zi8z06T9Jxy4e8Ba6/Pn0=
+			</data>
+			<key>hash2</key>
+			<data>
+			3lINzUqe4cLK9/SlOqIxw744vrUTeKrOIwUJurMCZFI=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-camera/nativescript-camera-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kAOqb/W136szRWIMCNlwzK/ZOU8=
+			</data>
+			<key>hash2</key>
+			<data>
+			1W7Q5US2WaIptJkrp5p180sFAuPs0z6HuIU9fwWBFwM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-camera/nativescript-camera.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9vP3FESxa8Fbirx9xP25bn0o7Ws=
+			</data>
+			<key>hash2</key>
+			<data>
+			Jg6E7FbNkO4FpUPOD7pzgL4H+OBh1gjwZQf3V/BAR8k=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-camera/nativescript-camera.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mD/glfRvAdrZOLHFsySJu+Zh2wU=
+			</data>
+			<key>hash2</key>
+			<data>
+			PByKvdR+Ul+hyeee+8LesWS2w0e22JmIoj2XE01+m+Y=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-camera/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CBtlrDDR6lh5KSLn6zM0nLOQSc4=
+			</data>
+			<key>hash2</key>
+			<data>
+			dhJgOOKvMLlcN5ch0Z2HF34uW/0/kNwrdOdJr4NxAWY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-camera/references.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ivu37aYxN9fE+Va3t6OOUUHylvw=
+			</data>
+			<key>hash2</key>
+			<data>
+			pV+0IKJCy0+JDCGmr2XjENrnfBY6N5S01He2CnI8t3Y=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-fancyalert/.npmignore</key>

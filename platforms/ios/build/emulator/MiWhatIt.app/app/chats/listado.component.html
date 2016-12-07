@@ -1,5 +1,7 @@
-<StackLayout>
+<ActionBar class="action-bar">
     <Label class="titulo" text="Listado de Chats"></Label>
+</ActionBar>
+<StackLayout>
     <ListView [items]="mockChat">
         <template let-item="item" let-i="index" let-odd="odd" let-even="event">
             <StackLayout class="listadoChat">
@@ -7,5 +9,4 @@
             </StackLayout>
         </template>
     </ListView>
-
 </StackLayout>

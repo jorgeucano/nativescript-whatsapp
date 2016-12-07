@@ -2,18 +2,43 @@
 var core_1 = require('@angular/core');
 var router_1 = require('nativescript-angular/router');
 var nativescript_fancyalert_1 = require('nativescript-fancyalert');
+var firebase = require('nativescript-plugin-firebase');
 var LoginComponent = (function () {
     function LoginComponent(routerExt) {
         this.routerExt = routerExt;
     }
+    LoginComponent.prototype.ngOnInit = function () {
+        var _this = this;
+        // chequeo si la persona esta logueada!
+        firebase.getCurrentUser().then(function (user) {
+            _this.routerExt.navigate(["/chatListado"], {
+                transition: {
+                    name: "flip",
+                    duration: 500,
+                    curve: "linear"
+                }
+            });
+        }, function (error) {
+            nativescript_fancyalert_1.TNSFancyAlert.showSuccess('Login!', error, 'Entrar!');
+        });
+    };
     LoginComponent.prototype.login = function () {
-        nativescript_fancyalert_1.TNSFancyAlert.showSuccess('Success!', 'Fancy alerts are nice.', 'Yes they are!');
-        this.routerExt.navigate(["/chatListado"], {
-            transition: {
-                name: "flip",
-                duration: 500,
-                curve: "linear"
-            }
+        var _this = this;
+        firebase.login({
+            type: firebase.LoginType.PASSWORD,
+            email: this.email,
+            password: this.password
+        }).then(function (result) {
+            nativescript_fancyalert_1.TNSFancyAlert.showSuccess('Login!', 'Bienvenido de nuevo', 'Entrar!');
+            _this.routerExt.navigate(["/chatListado"], {
+                transition: {
+                    name: "flip",
+                    duration: 500,
+                    curve: "linear"
+                }
+            });
+        }, function (errorMessage) {
+            nativescript_fancyalert_1.TNSFancyAlert.showSuccess('Error!', 'Wow, ocurrio un error.', 'retry');
         });
     };
     LoginComponent = __decorate([

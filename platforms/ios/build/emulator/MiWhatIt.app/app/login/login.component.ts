@@ -3,6 +3,8 @@ import { RouterExtensions } from 'nativescript-angular/router';
 
 import { TNSFancyAlert, TNSFancyAlertButton } from 'nativescript-fancyalert';
 
+import firebase = require('nativescript-plugin-firebase');
+
 
 @Component({
     selector:'login',
@@ -16,15 +18,46 @@ export class LoginComponent{
 
     constructor(private routerExt: RouterExtensions ){}
 
-    login(){
-        TNSFancyAlert.showSuccess('Success!', 'Fancy alerts are nice.', 'Yes they are!');
-        this.routerExt.navigate(["/chatListado"],{
-            transition:{
-                name: "flip",
-                duration:500,
-                curve:"linear"
+    ngOnInit(){
+        // chequeo si la persona esta logueada!
+        firebase.getCurrentUser().then(
+            (user)=>{
+                this.routerExt.navigate(["/chatListado"],{
+                    transition:{
+                        name: "flip",
+                        duration:500,
+                        curve:"linear"
+                    }
+                });
+            },
+            (error)=>{
+                TNSFancyAlert.showSuccess('Login!', error, 'Entrar!');
             }
-        });
+        )
+    }
+
+
+
+    login(){
+        firebase.login({
+            type: firebase.LoginType.PASSWORD,
+            email: this.email,
+            password: this.password
+        }).then(
+            (result)=>{
+                TNSFancyAlert.showSuccess('Login!', 'Bienvenido de nuevo', 'Entrar!');
+                this.routerExt.navigate(["/chatListado"],{
+                    transition:{
+                        name: "flip",
+                        duration:500,
+                        curve:"linear"
+                    }
+                });
+            },
+            (errorMessage)=>{
+                TNSFancyAlert.showSuccess('Error!', 'Wow, ocurrio un error.', 'retry');
+            }
+        );
     }
 
 }

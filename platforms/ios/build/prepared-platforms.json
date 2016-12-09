@@ -7,6 +7,7 @@
     "@angular/platform-browser": true,
     "@angular/platform-browser-dynamic": true,
     "@angular/router": true,
+    "nativescript-admob": true,
     "nativescript-angular": true,
     "nativescript-intl": true,
     "rxjs": true,

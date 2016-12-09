@@ -528,6 +528,10 @@ Copyright 2016 Google
    limitations under the License.
 
 
+## Google-Mobile-Ads-SDK
+
+Copyright 2011 Google Inc. All Rights Reserved.
+
 ## GoogleAppUtilities
 
 Copyright 2016 Google

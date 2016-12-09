@@ -19,6 +19,9 @@ import cameraModule = require("camera");
 
 import geolocation = require("nativescript-geolocation");
 
+var admob = require("nativescript-admob");
+
+
 firebase.init({
   // Optionally pass in properties for database, authentication and cloud messaging,
   // see their respective docs.

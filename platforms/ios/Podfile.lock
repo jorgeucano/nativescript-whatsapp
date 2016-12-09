@@ -70,6 +70,7 @@ PODS:
   - FirebaseStorage (1.0.4):
     - FirebaseAnalytics (~> 3.4)
     - GTMSessionFetcher/Core (~> 1.1)
+  - Google-Mobile-Ads-SDK (7.11.0)
   - GoogleAppUtilities (1.1.2):
     - GoogleSymbolUtilities (~> 1.1)
   - GoogleInterchangeUtilities (1.2.2):
@@ -111,6 +112,7 @@ DEPENDENCIES:
   - Firebase/Messaging
   - Firebase/RemoteConfig
   - Firebase/Storage
+  - Google-Mobile-Ads-SDK (= 7.11.0)
   - GoogleSignIn
   - SCLAlertView-Objective-C
 
@@ -128,6 +130,7 @@ SPEC CHECKSUMS:
   FirebaseMessaging: acf66347e43c5637c697060c3001d25c809a4131
   FirebaseRemoteConfig: 383a9afe0a9291ada949e3f615257928a823b594
   FirebaseStorage: c50aa353bf484072704e73b4aff1bd47adb735c4
+  Google-Mobile-Ads-SDK: 0e864ab93ba1ff8afe92e16de0e4e883f581ed33
   GoogleAppUtilities: a8a552aa74f6597f805e45b5a3962766c3134973
   GoogleInterchangeUtilities: d5bc4d88d5b661ab72f9d70c58d02ca8c27ad1f7
   GoogleSignIn: a8694c0a8e6d1b0ec77c58014de5bfd4ba2fa766
@@ -137,6 +140,6 @@ SPEC CHECKSUMS:
   GTMSessionFetcher: a1f8ed39e4fe21c68957daed472c7afbcdf29166
   SCLAlertView-Objective-C: ca78280817e66e74366b78579350dee2ff277e23
 
-PODFILE CHECKSUM: 56e5175f65fd56b730a5315894d1c8b1b02adb5e
+PODFILE CHECKSUM: b9b07e2cbaa769cd66481045b513712fb4a23e96
 
 COCOAPODS: 1.0.1

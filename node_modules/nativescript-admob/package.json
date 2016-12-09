@@ -1,0 +1,60 @@
+{
+  "name": "nativescript-admob",
+  "version": "1.2.0",
+  "description": "Make money with your app by using Google's AdMob ads.",
+  "main": "admob.js",
+  "nativescript": {
+    "platforms": {
+      "android": "2.3.0",
+      "ios": "2.3.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddyverbruggen/nativescript-admob.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "AdMob"
+  ],
+  "author": {
+    "name": "Telerik / Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/eddyverbruggen/nativescript-admob/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/eddyverbruggen/nativescript-admob/issues"
+  },
+  "homepage": "https://github.com/eddyverbruggen/nativescript-admob",
+  "gitHead": "fb0fe2aff8b525759adfb2f3c442eb9e6faab8c4",
+  "_id": "nativescript-admob@1.2.0",
+  "scripts": {},
+  "_shasum": "bbf351b208166952003cc12858434a08833a4b92",
+  "_from": "nativescript-admob@latest",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.2",
+  "_npmUser": {
+    "name": "eddyverbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "dist": {
+    "shasum": "bbf351b208166952003cc12858434a08833a4b92",
+    "tarball": "https://registry.npmjs.org/nativescript-admob/-/nativescript-admob-1.2.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "eddyverbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-admob-1.2.0.tgz_1474626126924_0.12874810700304806"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nativescript-admob/-/nativescript-admob-1.2.0.tgz",
+  "readme": "ERROR: No README data found!"
+}

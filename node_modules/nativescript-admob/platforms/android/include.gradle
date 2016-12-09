@@ -1,0 +1,11 @@
+android {
+    productFlavors {
+        "admob" {
+            dimension "admob"
+        }
+    }
+}
+
+dependencies {
+    compile "com.google.android.gms:play-services-ads:+"
+}

@@ -10,6 +10,9 @@ import imageModule = require("ui/image");
 
 import geolocation = require("nativescript-geolocation");
 
+
+var admob = require("nativescript-admob");
+
 @Component({
     selector:'login',
     templateUrl: 'login/login.component.html',
@@ -23,22 +26,81 @@ export class LoginComponent{
     constructor(private routerExt: RouterExtensions ){}
 
     ngOnInit(){
+
+        this.createMiniBanner();
+
         // chequeo si la persona esta logueada!
         firebase.getCurrentUser().then(
             (user)=>{
-                this.routerExt.navigate(["/chatListado"],{
+                /*this.routerExt.navigate(["/chatListado"],{
                     transition:{
                         name: "flip",
                         duration:500,
                         curve:"linear"
                     }
-                });
+                });*/
             },
             (error)=>{
                 //TNSFancyAlert.showSuccess('Login!', error, 'Entrar!');
             }
-        )
+        );
     }
+
+    createMiniBanner(){
+        admob.createBanner({
+            // if this 'view' property is not set, the banner is overlayed on the current top most view
+            // view: ..,
+            testing: true, // set to false to get real banners
+            size: admob.AD_SIZE.SMART_BANNER, // anything in admob.AD_SIZE, like admob.AD_SIZE.SMART_BANNER
+            iosBannerId: "ca-app-pub-XXXXXX/YYYYYY", // add your own
+            androidBannerId: "ca-app-pub-AAAAAAAA/BBBBBBB", // add your own
+            // Android automatically adds the connected device as test device with testing:true, iOS does not
+            iosTestDeviceIds: ["yourTestDeviceUDIDs", "canBeAddedHere"],
+            margins: {
+                // if both are set, top wins
+                //top: 10
+                bottom: 50
+            }
+            }).then(
+                function() {
+                console.log("admob createBanner done");
+                },
+                function(error) {
+                console.log("admob createBanner error: " + error);
+                }
+        );
+    }
+
+
+    hideBanner(){
+        // the .then(.. bit is optional btw
+        admob.hideBanner().then(
+                function() {
+                console.log("admob hideBanner done");
+                },
+                function(error) {
+                console.log("admob hideBanner error: " + error);
+                }
+        );
+    }
+
+    createInterstitial(){
+        admob.createInterstitial({
+            testing: true,
+            iosInterstitialId: "ca-app-pub-XXXXXX/YYYYY2", // add your own
+            androidInterstitialId: "ca-app-pub-AAAAAAAA/BBBBBB2", // add your own
+            // Android automatically adds the connected device as test device with testing:true, iOS does not
+            iosTestDeviceIds: ["ce97330130c9047ce0d4430d37d713b2"]
+            }).then(
+                function() {
+                console.log("admob createInterstitial done");
+                },
+                function(error) {
+                console.log("admob createInterstitial error: " + error);
+                }
+        )
+    };
+
 
     enableLocationTap() { 
         if (!geolocation.isEnabled()) {

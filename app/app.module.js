@@ -12,6 +12,7 @@ var create_user_component_1 = require('./login/create.user.component');
 var listado_component_1 = require('./chats/listado.component');
 var chat_component_1 = require('./chat/chat.component');
 var firebase = require("nativescript-plugin-firebase");
+var admob = require("nativescript-admob");
 firebase.init({}).then(function (instance) {
     console.log("firebase.init done");
 }, function (error) {

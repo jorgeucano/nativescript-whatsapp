@@ -21,6 +21,7 @@
     "@angular/platform-browser": "2.2.1",
     "@angular/platform-browser-dynamic": "2.2.1",
     "@angular/router": "3.2.1",
+    "nativescript-admob": "^1.2.0",
     "nativescript-angular": "1.2.0",
     "nativescript-camera": "0.0.8",
     "nativescript-fancyalert": "^1.1.0",

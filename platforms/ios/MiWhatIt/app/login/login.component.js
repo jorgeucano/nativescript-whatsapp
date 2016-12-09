@@ -6,25 +6,69 @@ var firebase = require('nativescript-plugin-firebase');
 var cameraModule = require("camera");
 var imageModule = require("ui/image");
 var geolocation = require("nativescript-geolocation");
+var admob = require("nativescript-admob");
 var LoginComponent = (function () {
     function LoginComponent(routerExt) {
         this.routerExt = routerExt;
     }
     LoginComponent.prototype.ngOnInit = function () {
-        var _this = this;
+        this.createMiniBanner();
         // chequeo si la persona esta logueada!
         firebase.getCurrentUser().then(function (user) {
-            _this.routerExt.navigate(["/chatListado"], {
-                transition: {
+            /*this.routerExt.navigate(["/chatListado"],{
+                transition:{
                     name: "flip",
-                    duration: 500,
-                    curve: "linear"
+                    duration:500,
+                    curve:"linear"
                 }
-            });
+            });*/
         }, function (error) {
             //TNSFancyAlert.showSuccess('Login!', error, 'Entrar!');
         });
     };
+    LoginComponent.prototype.createMiniBanner = function () {
+        admob.createBanner({
+            // if this 'view' property is not set, the banner is overlayed on the current top most view
+            // view: ..,
+            testing: true,
+            size: admob.AD_SIZE.SMART_BANNER,
+            iosBannerId: "ca-app-pub-XXXXXX/YYYYYY",
+            androidBannerId: "ca-app-pub-AAAAAAAA/BBBBBBB",
+            // Android automatically adds the connected device as test device with testing:true, iOS does not
+            iosTestDeviceIds: ["yourTestDeviceUDIDs", "canBeAddedHere"],
+            margins: {
+                // if both are set, top wins
+                //top: 10
+                bottom: 50
+            }
+        }).then(function () {
+            console.log("admob createBanner done");
+        }, function (error) {
+            console.log("admob createBanner error: " + error);
+        });
+    };
+    LoginComponent.prototype.hideBanner = function () {
+        // the .then(.. bit is optional btw
+        admob.hideBanner().then(function () {
+            console.log("admob hideBanner done");
+        }, function (error) {
+            console.log("admob hideBanner error: " + error);
+        });
+    };
+    LoginComponent.prototype.createInterstitial = function () {
+        admob.createInterstitial({
+            testing: true,
+            iosInterstitialId: "ca-app-pub-XXXXXX/YYYYY2",
+            androidInterstitialId: "ca-app-pub-AAAAAAAA/BBBBBB2",
+            // Android automatically adds the connected device as test device with testing:true, iOS does not
+            iosTestDeviceIds: ["ce97330130c9047ce0d4430d37d713b2"]
+        }).then(function () {
+            console.log("admob createInterstitial done");
+        }, function (error) {
+            console.log("admob createInterstitial error: " + error);
+        });
+    };
+    ;
     LoginComponent.prototype.enableLocationTap = function () {
         if (!geolocation.isEnabled()) {
             geolocation.enableLocationRequest();
